@@ -125,7 +125,7 @@ def update_bar_chart(selected_cities):
                  color='city',
                  color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#f40b19', 'Prague': '#7FD497'},
                  barmode='group',
-                 height=300, title=f"Avg Temperature Values")
+                 height=300, title="Avg Temperature Values")
     fig = fig.update_layout(
         plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white"
     )
