@@ -1,0 +1,1826 @@
+city,country,month_year,max_temp_c,min_temp_c,avg_temp_c,date
+Berlin,Germany,April     2023,11.9,4.5,7.6,2023-04-18
+Berlin,Germany,April     2023,8.2,3.1,5.1,2023-04-19
+Berlin,Germany,April     2023,13.2,3.8,8.5,2023-04-20
+Berlin,Germany,April     2023,19.1,8.7,13.2,2023-04-21
+Berlin,Germany,April     2023,20.0,7.7,13.9,2023-04-22
+Berlin,Germany,April     2023,16.4,10.3,12.7,2023-04-23
+Berlin,Germany,April     2023,16.0,8.2,12.5,2023-04-24
+Berlin,Germany,April     2023,11.2,5.1,7.8,2023-04-25
+Berlin,Germany,April     2023,10.3,2.3,6.4,2023-04-26
+Berlin,Germany,April     2023,12.0,2.2,7.5,2023-04-27
+Berlin,Germany,April     2023,13.6,3.3,8.9,2023-04-28
+Berlin,Germany,April     2023,12.5,8.7,10.6,2023-04-29
+Berlin,Germany,April     2023,15.7,4.6,9.9,2023-04-30
+Berlin,Germany,May       2023,18.8,4.2,11.7,2023-05-01
+Berlin,Germany,May       2023,12.9,7.3,10.0,2023-05-02
+Berlin,Germany,May       2023,15.4,4.8,9.9,2023-05-03
+Berlin,Germany,May       2023,18.0,4.3,11.3,2023-05-04
+Berlin,Germany,May       2023,18.1,7.0,12.7,2023-05-05
+Berlin,Germany,May       2023,10.8,7.0,8.6,2023-05-06
+Berlin,Germany,May       2023,14.1,7.8,10.2,2023-05-07
+Berlin,Germany,May       2023,16.9,5.1,11.0,2023-05-08
+Berlin,Germany,May       2023,19.5,6.5,13.0,2023-05-09
+Berlin,Germany,May       2023,17.9,9.5,13.8,2023-05-10
+Berlin,Germany,May       2023,20.4,11.4,15.8,2023-05-11
+Berlin,Germany,May       2023,21.1,11.2,16.1,2023-05-12
+Berlin,Germany,May       2023,21.5,10.8,16.1,2023-05-13
+Berlin,Germany,May       2023,19.2,9.3,14.9,2023-05-14
+Berlin,Germany,May       2023,18.6,10.6,14.5,2023-05-15
+Berlin,Germany,May       2023,17.2,8.9,12.0,2023-05-16
+Berlin,Germany,May       2023,15.0,6.0,10.5,2023-05-17
+Berlin,Germany,May       2023,15.2,5.2,10.8,2023-05-18
+Berlin,Germany,May       2023,18.1,6.9,13.0,2023-05-19
+Berlin,Germany,May       2023,21.0,9.3,14.8,2023-05-20
+Berlin,Germany,May       2023,26.6,13.5,19.7,2023-05-21
+Berlin,Germany,May       2023,26.2,14.6,20.0,2023-05-22
+Berlin,Germany,May       2023,17.6,11.1,15.2,2023-05-23
+Berlin,Germany,May       2023,16.5,7.9,12.6,2023-05-24
+Berlin,Germany,May       2023,19.9,8.8,14.6,2023-05-25
+Berlin,Germany,May       2023,19.6,8.2,13.8,2023-05-26
+Berlin,Germany,May       2023,20.9,8.1,15.0,2023-05-27
+Berlin,Germany,May       2023,23.3,9.7,17.0,2023-05-28
+Berlin,Germany,May       2023,20.9,12.0,16.0,2023-05-29
+Berlin,Germany,May       2023,22.3,8.7,15.6,2023-05-30
+Berlin,Germany,May       2023,24.6,10.4,17.6,2023-05-31
+Berlin,Germany,June      2023,23.2,10.8,16.8,2023-06-01
+Berlin,Germany,June      2023,20.0,10.4,15.1,2023-06-02
+Berlin,Germany,June      2023,21.2,7.5,14.5,2023-06-03
+Berlin,Germany,June      2023,23.3,9.2,16.8,2023-06-04
+Berlin,Germany,June      2023,25.1,11.3,19.2,2023-06-05
+Berlin,Germany,June      2023,21.7,14.8,18.5,2023-06-06
+Berlin,Germany,June      2023,26.6,15.9,20.9,2023-06-07
+Berlin,Germany,June      2023,27.6,16.1,21.9,2023-06-08
+Berlin,Germany,June      2023,27.9,17.2,22.3,2023-06-09
+Berlin,Germany,June      2023,28.9,15.5,22.3,2023-06-10
+Berlin,Germany,June      2023,27.4,14.5,21.5,2023-06-11
+Berlin,Germany,June      2023,26.6,14.1,20.9,2023-06-12
+Berlin,Germany,June      2023,21.3,13.9,17.8,2023-06-13
+Berlin,Germany,June      2023,22.3,12.5,17.5,2023-06-14
+Berlin,Germany,June      2023,21.8,12.7,17.2,2023-06-15
+Berlin,Germany,June      2023,19.4,13.5,16.1,2023-06-16
+Berlin,Germany,June      2023,23.7,13.1,18.2,2023-06-17
+Berlin,Germany,June      2023,26.1,13.2,20.2,2023-06-18
+Berlin,Germany,June      2023,28.3,15.6,22.2,2023-06-19
+Berlin,Germany,June      2023,28.3,18.6,23.6,2023-06-20
+Berlin,Germany,June      2023,30.1,19.8,24.6,2023-06-21
+Berlin,Germany,June      2023,29.0,18.2,24.0,2023-06-22
+Berlin,Germany,June      2023,19.1,14.9,17.2,2023-06-23
+Berlin,Germany,June      2023,25.4,13.2,19.7,2023-06-24
+Berlin,Germany,June      2023,26.7,17.6,22.0,2023-06-25
+Berlin,Germany,June      2023,31.0,18.1,22.9,2023-06-26
+Berlin,Germany,June      2023,20.7,13.6,17.4,2023-06-27
+Berlin,Germany,June      2023,22.2,12.1,17.5,2023-06-28
+Berlin,Germany,June      2023,25.5,13.8,20.6,2023-06-29
+Berlin,Germany,June      2023,22.0,15.8,18.7,2023-06-30
+Berlin,Germany,July      2023,24.1,15.8,19.4,2023-07-01
+Berlin,Germany,July      2023,23.3,15.3,18.6,2023-07-02
+Berlin,Germany,July      2023,22.2,13.3,18.2,2023-07-03
+Berlin,Germany,July      2023,22.0,14.8,18.4,2023-07-04
+Berlin,Germany,July      2023,24.2,13.9,18.7,2023-07-05
+Berlin,Germany,July      2023,22.5,13.3,18.4,2023-07-06
+Berlin,Germany,July      2023,28.6,14.1,21.7,2023-07-07
+Berlin,Germany,July      2023,31.5,15.2,23.9,2023-07-08
+Berlin,Germany,July      2023,33.1,17.1,25.5,2023-07-09
+Berlin,Germany,July      2023,28.1,19.6,23.4,2023-07-10
+Berlin,Germany,July      2023,31.3,16.7,24.2,2023-07-11
+Berlin,Germany,July      2023,28.8,19.6,23.9,2023-07-12
+Berlin,Germany,July      2023,26.3,18.2,22.0,2023-07-13
+Berlin,Germany,July      2023,27.1,15.0,21.2,2023-07-14
+Berlin,Germany,July      2023,35.2,18.2,27.1,2023-07-15
+Berlin,Germany,July      2023,30.1,19.8,24.1,2023-07-16
+Berlin,Germany,July      2023,28.0,17.7,22.9,2023-07-17
+Berlin,Germany,July      2023,24.9,14.5,20.3,2023-07-18
+Berlin,Germany,July      2023,25.6,16.6,20.7,2023-07-19
+Berlin,Germany,July      2023,20.9,13.9,17.8,2023-07-20
+Berlin,Germany,July      2023,20.9,13.9,17.5,2023-07-21
+Berlin,Germany,July      2023,22.9,13.9,18.2,2023-07-22
+Berlin,Germany,July      2023,25.7,16.3,20.0,2023-07-23
+Berlin,Germany,July      2023,28.3,17.4,21.6,2023-07-24
+Berlin,Germany,July      2023,21.6,15.3,18.4,2023-07-25
+Berlin,Germany,July      2023,20.7,12.4,17.0,2023-07-26
+Berlin,Germany,July      2023,22.5,12.0,17.1,2023-07-27
+Berlin,Germany,July      2023,22.8,15.3,18.9,2023-07-28
+Berlin,Germany,July      2023,22.9,16.2,19.4,2023-07-29
+Berlin,Germany,July      2023,25.4,15.4,20.0,2023-07-30
+Berlin,Germany,July      2023,19.4,15.0,17.0,2023-07-31
+Berlin,Germany,August    2023,20.8,15.6,17.6,2023-08-01
+Berlin,Germany,August    2023,22.2,14.1,17.8,2023-08-02
+Berlin,Germany,August    2023,22.4,16.2,19.3,2023-08-03
+Berlin,Germany,August    2023,22.4,16.3,19.2,2023-08-04
+Berlin,Germany,August    2023,22.6,14.3,18.6,2023-08-05
+Berlin,Germany,August    2023,19.8,14.7,17.1,2023-08-06
+Berlin,Germany,August    2023,17.8,13.2,15.0,2023-08-07
+Berlin,Germany,August    2023,20.4,12.5,16.0,2023-08-08
+Berlin,Germany,August    2023,20.6,12.0,16.4,2023-08-09
+Berlin,Germany,August    2023,21.2,11.7,16.4,2023-08-10
+Berlin,Germany,August    2023,27.0,13.9,20.1,2023-08-11
+Berlin,Germany,August    2023,26.7,17.8,21.9,2023-08-12
+Berlin,Germany,August    2023,26.7,17.4,21.8,2023-08-13
+Berlin,Germany,August    2023,30.1,17.9,23.8,2023-08-14
+Berlin,Germany,August    2023,30.2,19.8,24.6,2023-08-15
+Berlin,Germany,August    2023,28.5,19.7,23.4,2023-08-16
+Berlin,Germany,August    2023,25.9,18.0,21.5,2023-08-17
+Berlin,Germany,August    2023,29.9,19.0,24.3,2023-08-18
+Berlin,Germany,August    2023,31.7,19.9,26.2,2023-08-19
+Berlin,Germany,August    2023,28.6,22.3,25.3,2023-08-20
+Berlin,Germany,August    2023,27.7,19.5,23.0,2023-08-21
+Berlin,Germany,August    2023,25.8,19.6,22.6,2023-08-22
+Berlin,Germany,August    2023,26.6,17.2,21.8,2023-08-23
+Berlin,Germany,August    2023,28.4,16.6,22.7,2023-08-24
+Berlin,Germany,August    2023,31.6,20.6,25.0,2023-08-25
+Berlin,Germany,August    2023,26.7,19.8,22.8,2023-08-26
+Berlin,Germany,August    2023,22.8,17.9,20.1,2023-08-27
+Berlin,Germany,August    2023,21.5,14.6,17.8,2023-08-28
+Berlin,Germany,August    2023,16.3,13.7,14.4,2023-08-29
+Berlin,Germany,August    2023,21.2,12.9,16.0,2023-08-30
+Berlin,Germany,August    2023,19.3,13.8,16.3,2023-08-31
+Berlin,Germany,September 2023,20.6,12.2,16.1,2023-09-01
+Berlin,Germany,September 2023,22.7,14.2,18.4,2023-09-02
+Berlin,Germany,September 2023,22.6,15.8,18.9,2023-09-03
+Berlin,Germany,September 2023,25.9,14.0,19.9,2023-09-04
+Berlin,Germany,September 2023,28.3,17.0,22.4,2023-09-05
+Berlin,Germany,September 2023,29.4,17.4,23.1,2023-09-06
+Berlin,Germany,September 2023,29.5,17.5,23.2,2023-09-07
+Berlin,Germany,September 2023,30.2,17.4,23.5,2023-09-08
+Berlin,Germany,September 2023,31.4,18.0,24.3,2023-09-09
+Berlin,Germany,September 2023,30.5,18.8,24.4,2023-09-10
+Berlin,Germany,September 2023,30.4,19.9,25.1,2023-09-11
+Berlin,Germany,September 2023,28.6,19.9,23.3,2023-09-12
+Berlin,Germany,September 2023,20.1,12.6,17.0,2023-09-13
+Berlin,Germany,September 2023,20.6,10.7,15.6,2023-09-14
+Berlin,Germany,September 2023,24.4,13.1,18.5,2023-09-15
+Berlin,Germany,September 2023,27.3,14.6,20.7,2023-09-16
+Berlin,Germany,September 2023,27.1,16.7,21.6,2023-09-17
+Berlin,Germany,September 2023,28.5,18.3,23.1,2023-09-18
+Berlin,Germany,September 2023,21.2,17.0,19.0,2023-09-19
+Berlin,Germany,September 2023,25.3,15.9,19.9,2023-09-20
+Berlin,Germany,September 2023,27.4,16.6,21.5,2023-09-21
+Berlin,Germany,September 2023,20.0,15.4,17.9,2023-09-22
+Berlin,Germany,September 2023,20.3,13.2,16.3,2023-09-23
+Berlin,Germany,September 2023,20.6,11.0,15.8,2023-09-24
+Berlin,Germany,September 2023,22.6,11.6,16.7,2023-09-25
+Berlin,Germany,September 2023,26.0,14.5,20.1,2023-09-26
+Berlin,Germany,September 2023,26.4,17.1,21.5,2023-09-27
+Berlin,Germany,September 2023,27.0,17.0,21.2,2023-09-28
+Berlin,Germany,September 2023,26.0,17.7,20.8,2023-09-29
+Berlin,Germany,September 2023,20.0,12.6,16.5,2023-09-30
+Berlin,Germany,October   2023,20.2,13.7,16.4,2023-10-01
+Berlin,Germany,October   2023,25.1,16.1,20.2,2023-10-02
+Berlin,Germany,October   2023,27.0,13.6,19.8,2023-10-03
+Berlin,Germany,October   2023,18.1,12.0,14.4,2023-10-04
+Berlin,Germany,October   2023,17.2,11.7,14.0,2023-10-05
+Berlin,Germany,October   2023,19.8,12.4,16.1,2023-10-06
+Berlin,Germany,October   2023,17.0,10.7,14.7,2023-10-07
+Berlin,Germany,October   2023,14.1,8.5,11.2,2023-10-08
+Berlin,Germany,October   2023,14.2,7.6,10.4,2023-10-09
+Berlin,Germany,October   2023,16.2,13.4,14.8,2023-10-10
+Berlin,Germany,October   2023,22.9,14.4,18.5,2023-10-11
+Berlin,Germany,October   2023,19.4,13.0,14.6,2023-10-12
+Berlin,Germany,October   2023,20.5,14.0,17.1,2023-10-13
+Berlin,Germany,October   2023,21.4,9.1,15.0,2023-10-14
+Berlin,Germany,October   2023,11.4,7.0,8.6,2023-10-15
+Berlin,Germany,October   2023,11.1,4.8,8.1,2023-10-16
+Berlin,Germany,October   2023,12.0,5.9,8.5,2023-10-17
+Berlin,Germany,October   2023,13.8,5.6,9.1,2023-10-18
+Berlin,Germany,October   2023,8.3,7.1,7.6,2023-10-19
+Berlin,Germany,October   2023,7.7,6.2,6.7,2023-10-20
+Berlin,Germany,October   2023,16.2,7.0,10.8,2023-10-21
+Berlin,Germany,October   2023,16.3,10.5,13.2,2023-10-22
+Berlin,Germany,October   2023,15.2,8.6,11.8,2023-10-23
+Berlin,Germany,October   2023,13.2,10.5,11.6,2023-10-24
+Berlin,Germany,October   2023,14.0,10.2,11.8,2023-10-25
+Berlin,Germany,October   2023,12.6,9.9,11.1,2023-10-26
+Berlin,Germany,October   2023,11.8,9.2,10.3,2023-10-27
+Berlin,Germany,October   2023,13.4,9.4,10.8,2023-10-28
+Berlin,Germany,October   2023,14.2,8.5,11.2,2023-10-29
+Berlin,Germany,October   2023,14.0,10.0,12.2,2023-10-30
+Berlin,Germany,October   2023,12.4,9.2,11.4,2023-10-31
+Berlin,Germany,November  2023,14.6,7.1,10.6,2023-11-01
+Berlin,Germany,November  2023,14.9,8.9,12.0,2023-11-02
+Berlin,Germany,November  2023,11.7,8.0,9.9,2023-11-03
+Berlin,Germany,November  2023,11.7,6.5,8.8,2023-11-04
+Berlin,Germany,November  2023,11.4,8.0,9.8,2023-11-05
+Berlin,Germany,November  2023,11.7,9.8,10.7,2023-11-06
+Berlin,Germany,November  2023,11.8,8.3,9.9,2023-11-07
+Berlin,Germany,November  2023,10.7,7.8,9.1,2023-11-08
+Berlin,Germany,November  2023,11.2,7.3,9.0,2023-11-09
+Berlin,Germany,November  2023,11.4,6.6,9.5,2023-11-10
+Berlin,Germany,November  2023,8.2,5.7,7.1,2023-11-11
+Berlin,Germany,November  2023,8.5,4.6,6.5,2023-11-12
+Berlin,Germany,November  2023,10.6,4.4,7.0,2023-11-13
+Berlin,Germany,November  2023,11.3,9.4,10.5,2023-11-14
+Berlin,Germany,November  2023,9.7,5.4,7.3,2023-11-15
+Berlin,Germany,November  2023,8.3,5.7,7.1,2023-11-16
+Berlin,Germany,November  2023,5.4,2.5,4.4,2023-11-17
+Berlin,Germany,November  2023,6.1,2.3,4.2,2023-11-18
+Berlin,Germany,November  2023,10.6,4.4,7.7,2023-11-19
+Berlin,Germany,November  2023,10.1,8.5,9.2,2023-11-20
+Berlin,Germany,November  2023,8.4,1.7,5.0,2023-11-21
+Berlin,Germany,November  2023,3.0,-0.5,1.3,2023-11-22
+Berlin,Germany,November  2023,10.6,1.9,7.4,2023-11-23
+Berlin,Germany,November  2023,7.1,1.9,3.8,2023-11-24
+Berlin,Germany,November  2023,3.1,-0.6,1.4,2023-11-25
+Berlin,Germany,November  2023,2.0,-1.6,-0.1,2023-11-26
+Berlin,Germany,November  2023,1.5,-0.1,1.1,2023-11-27
+Berlin,Germany,November  2023,0.4,-4.6,-1.3,2023-11-28
+Berlin,Germany,November  2023,0.4,-3.6,-1.5,2023-11-29
+Berlin,Germany,November  2023,-0.9,-4.9,-3.6,2023-11-30
+Berlin,Germany,December  2023,-1.3,-6.0,-3.5,2023-12-01
+Berlin,Germany,December  2023,-1.2,-6.3,-4.4,2023-12-02
+Berlin,Germany,December  2023,-0.8,-5.2,-3.0,2023-12-03
+Berlin,Germany,December  2023,-0.8,-5.4,-2.7,2023-12-04
+Berlin,Germany,December  2023,0.0,-2.6,-1.3,2023-12-05
+Berlin,Germany,December  2023,1.2,-0.5,0.3,2023-12-06
+Berlin,Germany,December  2023,0.8,-2.1,0.0,2023-12-07
+Berlin,Germany,December  2023,0.3,-1.7,-0.2,2023-12-08
+Berlin,Germany,December  2023,3.4,0.9,2.2,2023-12-09
+Berlin,Germany,December  2023,6.8,2.8,5.3,2023-12-10
+Berlin,Germany,December  2023,8.9,5.8,7.5,2023-12-11
+Berlin,Germany,December  2023,6.6,4.2,5.9,2023-12-12
+Berlin,Germany,December  2023,4.7,2.2,4.2,2023-12-13
+Berlin,Germany,December  2023,3.4,1.9,2.6,2023-12-14
+Berlin,Germany,December  2023,5.1,1.3,3.3,2023-12-15
+Berlin,Germany,December  2023,7.1,3.8,5.4,2023-12-16
+Berlin,Germany,December  2023,9.6,7.7,8.5,2023-12-17
+Berlin,Germany,December  2023,8.5,6.3,7.4,2023-12-18
+Berlin,Germany,December  2023,7.5,6.4,6.9,2023-12-19
+Berlin,Germany,December  2023,6.5,4.4,5.5,2023-12-20
+Berlin,Germany,December  2023,9.2,3.9,7.1,2023-12-21
+Berlin,Germany,December  2023,4.8,2.3,3.3,2023-12-22
+Berlin,Germany,December  2023,2.8,0.7,1.7,2023-12-23
+Berlin,Germany,December  2023,10.6,0.9,7.3,2023-12-24
+Berlin,Germany,December  2023,11.5,8.5,10.1,2023-12-25
+Berlin,Germany,December  2023,11.2,6.8,9.1,2023-12-26
+Berlin,Germany,December  2023,6.1,3.1,4.7,2023-12-27
+Berlin,Germany,December  2023,8.6,5.5,7.0,2023-12-28
+Berlin,Germany,December  2023,9.6,6.9,8.7,2023-12-29
+Berlin,Germany,December  2023,9.2,4.4,6.2,2023-12-30
+Berlin,Germany,December  2023,7.9,4.1,5.7,2023-12-31
+Berlin,Germany,January   2024,7.0,5.4,6.1,2024-01-01
+Berlin,Germany,January   2024,7.1,3.6,5.0,2024-01-02
+Berlin,Germany,January   2024,9.7,7.7,9.1,2024-01-03
+Berlin,Germany,January   2024,8.1,-0.4,4.3,2024-01-04
+Berlin,Germany,January   2024,0.5,-0.9,-0.3,2024-01-05
+Berlin,Germany,January   2024,1.3,-1.1,0.5,2024-01-06
+Berlin,Germany,January   2024,-1.6,-3.9,-2.5,2024-01-07
+Berlin,Germany,January   2024,-4.7,-7.0,-5.7,2024-01-08
+Berlin,Germany,January   2024,-3.0,-7.3,-5.6,2024-01-09
+Berlin,Germany,January   2024,-0.8,-5.7,-3.9,2024-01-10
+Berlin,Germany,January   2024,0.4,-3.6,-1.6,2024-01-11
+Berlin,Germany,January   2024,0.7,-0.9,0.0,2024-01-12
+Berlin,Germany,January   2024,2.7,-0.1,1.4,2024-01-13
+Berlin,Germany,January   2024,3.1,1.2,2.1,2024-01-14
+Berlin,Germany,January   2024,2.3,-1.9,0.6,2024-01-15
+Berlin,Germany,January   2024,0.4,-2.9,-0.9,2024-01-16
+Berlin,Germany,January   2024,0.1,-3.6,-1.7,2024-01-17
+Berlin,Germany,January   2024,0.5,-2.9,-1.5,2024-01-18
+Berlin,Germany,January   2024,0.9,-3.8,-1.6,2024-01-19
+Berlin,Germany,January   2024,1.3,-2.7,-0.5,2024-01-20
+Berlin,Germany,January   2024,1.7,-3.1,-0.5,2024-01-21
+Berlin,Germany,January   2024,7.5,1.2,5.2,2024-01-22
+Berlin,Germany,January   2024,6.1,3.2,4.9,2024-01-23
+Berlin,Germany,January   2024,11.3,3.7,8.1,2024-01-24
+Berlin,Germany,January   2024,7.5,3.9,6.3,2024-01-25
+Berlin,Germany,January   2024,8.1,2.4,4.9,2024-01-26
+Berlin,Germany,January   2024,5.5,2.3,4.4,2024-01-27
+Berlin,Germany,January   2024,6.6,0.9,3.1,2024-01-28
+Berlin,Germany,January   2024,7.7,2.1,4.3,2024-01-29
+Berlin,Germany,January   2024,8.3,2.8,5.3,2024-01-30
+Berlin,Germany,January   2024,8.6,4.5,6.4,2024-01-31
+Berlin,Germany,February  2024,7.2,3.2,5.7,2024-02-01
+Berlin,Germany,February  2024,8.2,2.6,4.9,2024-02-02
+Berlin,Germany,February  2024,9.7,8.5,9.2,2024-02-03
+Berlin,Germany,February  2024,8.6,6.4,7.6,2024-02-04
+Berlin,Germany,February  2024,10.3,8.3,9.6,2024-02-05
+Berlin,Germany,February  2024,10.9,6.1,9.4,2024-02-06
+Berlin,Germany,February  2024,10.2,2.6,4.1,2024-02-07
+Berlin,Germany,February  2024,3.9,1.7,2.4,2024-02-08
+Berlin,Germany,February  2024,6.9,1.5,3.8,2024-02-09
+Berlin,Germany,February  2024,9.5,5.8,7.2,2024-02-10
+Berlin,Germany,February  2024,7.2,6.1,6.8,2024-02-11
+Berlin,Germany,February  2024,8.9,5.4,7.1,2024-02-12
+Berlin,Germany,February  2024,8.1,3.4,6.0,2024-02-13
+Berlin,Germany,February  2024,8.8,3.7,6.3,2024-02-14
+Berlin,Germany,February  2024,11.6,7.7,9.1,2024-02-15
+Berlin,Germany,February  2024,14.7,7.9,10.8,2024-02-16
+Berlin,Germany,February  2024,11.5,4.6,8.7,2024-02-17
+Berlin,Germany,February  2024,9.8,3.4,6.4,2024-02-18
+Berlin,Germany,February  2024,8.2,6.4,7.5,2024-02-19
+Berlin,Germany,February  2024,7.9,6.5,7.0,2024-02-20
+Berlin,Germany,February  2024,10.6,6.6,8.3,2024-02-21
+Berlin,Germany,February  2024,10.8,7.2,8.6,2024-02-22
+Berlin,Germany,February  2024,11.8,5.1,7.2,2024-02-23
+Berlin,Germany,February  2024,10.1,3.2,6.2,2024-02-24
+Berlin,Germany,February  2024,11.3,3.6,6.7,2024-02-25
+Berlin,Germany,February  2024,10.2,3.6,6.6,2024-02-26
+Berlin,Germany,February  2024,9.2,4.9,6.6,2024-02-27
+Berlin,Germany,February  2024,9.0,1.6,5.0,2024-02-28
+Berlin,Germany,February  2024,11.8,2.1,6.7,2024-02-29
+Berlin,Germany,March     2024,13.6,5.8,9.2,2024-03-01
+Berlin,Germany,March     2024,12.6,8.0,9.2,2024-03-02
+Berlin,Germany,March     2024,13.3,6.9,10.1,2024-03-03
+Berlin,Germany,March     2024,9.7,6.7,9.0,2024-03-04
+Berlin,Germany,March     2024,7.7,2.5,4.8,2024-03-05
+Berlin,Germany,March     2024,9.4,1.8,5.5,2024-03-06
+Berlin,Germany,March     2024,7.7,2.0,4.9,2024-03-07
+Berlin,Germany,March     2024,9.1,0.6,4.5,2024-03-08
+Berlin,Germany,March     2024,10.4,1.7,5.7,2024-03-09
+Berlin,Germany,March     2024,11.9,4.5,8.4,2024-03-10
+Berlin,Germany,March     2024,12.7,8.3,9.6,2024-03-11
+Berlin,Germany,March     2024,11.6,7.0,8.7,2024-03-12
+Berlin,Germany,March     2024,13.1,6.3,9.7,2024-03-13
+Berlin,Germany,March     2024,14.9,8.9,11.4,2024-03-14
+Berlin,Germany,March     2024,17.7,9.4,12.3,2024-03-15
+Berlin,Germany,March     2024,13.2,4.7,9.0,2024-03-16
+Berlin,Germany,March     2024,9.1,2.6,5.5,2024-03-17
+Berlin,Germany,March     2024,7.9,-0.1,3.7,2024-03-18
+Berlin,Germany,March     2024,10.2,0.3,5.2,2024-03-19
+Berlin,Germany,March     2024,14.4,4.6,9.1,2024-03-20
+Berlin,Germany,March     2024,13.2,6.9,9.7,2024-03-21
+Berlin,Germany,March     2024,13.0,6.5,9.4,2024-03-22
+Berlin,Germany,March     2024,9.2,4.2,6.5,2024-03-23
+Berlin,Germany,March     2024,7.0,2.0,4.5,2024-03-24
+Berlin,Germany,March     2024,6.5,3.7,5.3,2024-03-25
+Berlin,Germany,March     2024,13.6,1.6,7.5,2024-03-26
+Berlin,Germany,March     2024,17.2,5.2,11.1,2024-03-27
+Berlin,Germany,March     2024,10.4,6.8,8.6,2024-03-28
+Berlin,Germany,March     2024,15.4,5.4,10.5,2024-03-29
+Berlin,Germany,March     2024,20.8,8.1,14.0,2024-03-30
+Berlin,Germany,March     2024,18.4,10.6,14.4,2024-03-31
+Berlin,Germany,April     2024,18.8,9.9,13.5,2024-04-01
+Berlin,Germany,April     2024,12.2,8.9,10.0,2024-04-02
+Berlin,Germany,April     2024,10.2,3.8,7.4,2024-04-03
+Berlin,Germany,April     2024,13.2,9.1,10.6,2024-04-04
+Berlin,Germany,April     2024,18.9,7.8,13.2,2024-04-05
+Berlin,Germany,April     2024,21.5,11.7,16.2,2024-04-06
+Berlin,Germany,April     2024,23.1,14.2,18.3,2024-04-07
+Berlin,Germany,April     2024,27.1,15.8,20.5,2024-04-08
+Berlin,Germany,April     2024,26.3,10.6,17.8,2024-04-09
+Berlin,Germany,April     2024,12.9,9.2,11.2,2024-04-10
+Berlin,Germany,April     2024,17.9,7.2,12.7,2024-04-11
+Berlin,Germany,April     2024,18.9,11.7,14.6,2024-04-12
+Berlin,Germany,April     2024,20.7,12.1,16.4,2024-04-13
+Berlin,Germany,April     2024,16.6,8.8,13.9,2024-04-14
+Berlin,Germany,April     2024,11.4,5.8,8.9,2024-04-15
+Berlin,Germany,April     2024,7.8,3.5,5.7,2024-04-16
+Paris,France,April     2023,13.6,5.9,10.0,2023-04-18
+Paris,France,April     2023,15.8,7.0,11.7,2023-04-19
+Paris,France,April     2023,10.9,5.3,8.3,2023-04-20
+Paris,France,April     2023,14.2,4.0,8.7,2023-04-21
+Paris,France,April     2023,13.8,6.8,10.4,2023-04-22
+Paris,France,April     2023,12.2,8.5,10.5,2023-04-23
+Paris,France,April     2023,12.2,7.2,9.6,2023-04-24
+Paris,France,April     2023,10.3,6.0,8.0,2023-04-25
+Paris,France,April     2023,13.3,4.6,9.3,2023-04-26
+Paris,France,April     2023,19.6,8.6,13.1,2023-04-27
+Paris,France,April     2023,18.3,12.2,15.0,2023-04-28
+Paris,France,April     2023,16.9,9.0,13.2,2023-04-29
+Paris,France,April     2023,17.7,8.6,12.9,2023-04-30
+Paris,France,May       2023,17.4,10.0,13.5,2023-05-01
+Paris,France,May       2023,15.5,7.7,12.0,2023-05-02
+Paris,France,May       2023,17.7,5.6,12.0,2023-05-03
+Paris,France,May       2023,23.2,9.2,16.0,2023-05-04
+Paris,France,May       2023,20.7,11.3,15.6,2023-05-05
+Paris,France,May       2023,21.8,10.7,15.5,2023-05-06
+Paris,France,May       2023,19.8,13.6,16.2,2023-05-07
+Paris,France,May       2023,19.6,10.3,15.2,2023-05-08
+Paris,France,May       2023,14.6,11.5,12.7,2023-05-09
+Paris,France,May       2023,14.5,8.9,11.7,2023-05-10
+Paris,France,May       2023,17.1,8.0,12.6,2023-05-11
+Paris,France,May       2023,14.9,8.2,11.9,2023-05-12
+Paris,France,May       2023,19.6,9.4,14.4,2023-05-13
+Paris,France,May       2023,20.2,9.8,14.5,2023-05-14
+Paris,France,May       2023,14.5,8.6,11.4,2023-05-15
+Paris,France,May       2023,15.4,5.7,10.7,2023-05-16
+Paris,France,May       2023,16.3,6.4,11.4,2023-05-17
+Paris,France,May       2023,17.4,7.6,12.0,2023-05-18
+Paris,France,May       2023,18.2,7.6,13.1,2023-05-19
+Paris,France,May       2023,18.7,10.3,14.7,2023-05-20
+Paris,France,May       2023,19.3,10.7,15.3,2023-05-21
+Paris,France,May       2023,21.5,11.8,16.2,2023-05-22
+Paris,France,May       2023,19.7,10.6,14.5,2023-05-23
+Paris,France,May       2023,18.0,7.6,12.8,2023-05-24
+Paris,France,May       2023,21.5,9.4,15.3,2023-05-25
+Paris,France,May       2023,21.1,9.9,15.4,2023-05-26
+Paris,France,May       2023,23.1,10.1,16.8,2023-05-27
+Paris,France,May       2023,24.3,11.8,18.4,2023-05-28
+Paris,France,May       2023,23.3,12.1,17.5,2023-05-29
+Paris,France,May       2023,22.3,10.2,16.2,2023-05-30
+Paris,France,May       2023,25.3,10.7,18.2,2023-05-31
+Paris,France,June      2023,26.4,13.4,19.1,2023-06-01
+Paris,France,June      2023,21.2,9.3,15.3,2023-06-02
+Paris,France,June      2023,23.9,10.8,17.4,2023-06-03
+Paris,France,June      2023,24.3,12.0,18.6,2023-06-04
+Paris,France,June      2023,24.6,12.2,19.0,2023-06-05
+Paris,France,June      2023,25.3,12.0,18.7,2023-06-06
+Paris,France,June      2023,26.2,13.6,20.3,2023-06-07
+Paris,France,June      2023,27.5,13.6,20.8,2023-06-08
+Paris,France,June      2023,26.8,16.5,22.1,2023-06-09
+Paris,France,June      2023,26.0,18.4,21.8,2023-06-10
+Paris,France,June      2023,24.3,18.2,21.0,2023-06-11
+Paris,France,June      2023,28.3,16.2,21.7,2023-06-12
+Paris,France,June      2023,28.8,15.9,22.0,2023-06-13
+Paris,France,June      2023,28.8,15.1,21.9,2023-06-14
+Paris,France,June      2023,28.2,15.6,22.0,2023-06-15
+Paris,France,June      2023,29.4,15.3,22.7,2023-06-16
+Paris,France,June      2023,30.6,16.9,23.4,2023-06-17
+Paris,France,June      2023,28.4,17.4,21.3,2023-06-18
+Paris,France,June      2023,25.9,16.8,20.9,2023-06-19
+Paris,France,June      2023,24.9,16.7,20.5,2023-06-20
+Paris,France,June      2023,27.1,17.4,21.9,2023-06-21
+Paris,France,June      2023,20.8,15.6,17.9,2023-06-22
+Paris,France,June      2023,26.2,13.7,20.1,2023-06-23
+Paris,France,June      2023,28.5,15.0,21.9,2023-06-24
+Paris,France,June      2023,31.8,16.8,24.6,2023-06-25
+Paris,France,June      2023,23.8,16.3,19.8,2023-06-26
+Paris,France,June      2023,24.5,13.4,19.2,2023-06-27
+Paris,France,June      2023,25.1,15.0,20.5,2023-06-28
+Paris,France,June      2023,25.2,17.2,20.8,2023-06-29
+Paris,France,June      2023,23.6,13.9,18.6,2023-06-30
+Paris,France,July      2023,23.1,15.2,18.6,2023-07-01
+Paris,France,July      2023,22.5,13.4,18.1,2023-07-02
+Paris,France,July      2023,23.9,14.2,18.6,2023-07-03
+Paris,France,July      2023,23.2,12.6,18.0,2023-07-04
+Paris,France,July      2023,21.2,11.4,16.7,2023-07-05
+Paris,France,July      2023,25.0,12.8,19.3,2023-07-06
+Paris,France,July      2023,30.6,15.8,23.5,2023-07-07
+Paris,France,July      2023,32.0,18.6,25.0,2023-07-08
+Paris,France,July      2023,28.4,19.2,22.1,2023-07-09
+Paris,France,July      2023,29.5,17.9,23.4,2023-07-10
+Paris,France,July      2023,30.6,17.8,24.4,2023-07-11
+Paris,France,July      2023,25.6,16.5,21.0,2023-07-12
+Paris,France,July      2023,25.5,15.4,20.4,2023-07-13
+Paris,France,July      2023,30.5,15.1,23.0,2023-07-14
+Paris,France,July      2023,24.7,18.9,21.2,2023-07-15
+Paris,France,July      2023,23.8,14.9,19.9,2023-07-16
+Paris,France,July      2023,25.6,15.1,20.4,2023-07-17
+Paris,France,July      2023,29.7,14.4,22.3,2023-07-18
+Paris,France,July      2023,25.6,15.5,21.0,2023-07-19
+Paris,France,July      2023,26.3,14.2,20.1,2023-07-20
+Paris,France,July      2023,25.1,16.2,19.5,2023-07-21
+Paris,France,July      2023,26.3,13.9,20.2,2023-07-22
+Paris,France,July      2023,21.5,16.5,19.0,2023-07-23
+Paris,France,July      2023,23.6,17.1,19.9,2023-07-24
+Paris,France,July      2023,21.0,13.8,16.9,2023-07-25
+Paris,France,July      2023,23.6,13.3,18.8,2023-07-26
+Paris,France,July      2023,22.3,17.8,19.6,2023-07-27
+Paris,France,July      2023,22.7,17.3,19.5,2023-07-28
+Paris,France,July      2023,24.2,16.6,20.1,2023-07-29
+Paris,France,July      2023,23.4,14.7,19.4,2023-07-30
+Paris,France,July      2023,21.8,17.0,19.0,2023-07-31
+Paris,France,August    2023,22.1,16.4,19.1,2023-08-01
+Paris,France,August    2023,23.3,16.1,19.4,2023-08-02
+Paris,France,August    2023,19.4,15.3,17.1,2023-08-03
+Paris,France,August    2023,22.7,13.1,17.3,2023-08-04
+Paris,France,August    2023,18.2,13.0,15.5,2023-08-05
+Paris,France,August    2023,20.1,13.5,16.2,2023-08-06
+Paris,France,August    2023,21.3,12.2,16.8,2023-08-07
+Paris,France,August    2023,22.8,13.6,18.2,2023-08-08
+Paris,France,August    2023,23.4,15.2,19.6,2023-08-09
+Paris,France,August    2023,26.9,15.0,21.2,2023-08-10
+Paris,France,August    2023,28.6,17.9,22.7,2023-08-11
+Paris,France,August    2023,26.3,19.4,21.6,2023-08-12
+Paris,France,August    2023,24.6,16.1,20.4,2023-08-13
+Paris,France,August    2023,28.6,16.1,21.9,2023-08-14
+Paris,France,August    2023,25.3,18.0,21.9,2023-08-15
+Paris,France,August    2023,26.6,17.1,21.5,2023-08-16
+Paris,France,August    2023,27.8,18.0,22.9,2023-08-17
+Paris,France,August    2023,30.6,19.3,24.8,2023-08-18
+Paris,France,August    2023,27.9,22.2,24.8,2023-08-19
+Paris,France,August    2023,30.2,18.5,24.5,2023-08-20
+Paris,France,August    2023,28.4,18.5,23.2,2023-08-21
+Paris,France,August    2023,30.8,18.2,24.0,2023-08-22
+Paris,France,August    2023,31.2,18.8,24.5,2023-08-23
+Paris,France,August    2023,30.1,20.8,24.9,2023-08-24
+Paris,France,August    2023,23.5,18.1,20.7,2023-08-25
+Paris,France,August    2023,23.9,15.0,19.1,2023-08-26
+Paris,France,August    2023,21.0,13.7,17.2,2023-08-27
+Paris,France,August    2023,22.0,14.2,17.6,2023-08-28
+Paris,France,August    2023,21.9,13.1,17.2,2023-08-29
+Paris,France,August    2023,22.3,14.0,17.6,2023-08-30
+Paris,France,August    2023,18.4,12.8,15.8,2023-08-31
+Paris,France,September 2023,23.8,16.0,19.4,2023-09-01
+Paris,France,September 2023,27.7,16.3,21.7,2023-09-02
+Paris,France,September 2023,29.6,18.2,23.6,2023-09-03
+Paris,France,September 2023,29.6,18.3,23.6,2023-09-04
+Paris,France,September 2023,34.2,19.2,26.2,2023-09-05
+Paris,France,September 2023,33.1,21.7,26.8,2023-09-06
+Paris,France,September 2023,33.4,19.6,26.2,2023-09-07
+Paris,France,September 2023,35.2,22.9,28.6,2023-09-08
+Paris,France,September 2023,34.1,23.1,28.2,2023-09-09
+Paris,France,September 2023,34.6,22.8,28.3,2023-09-10
+Paris,France,September 2023,28.4,21.7,24.9,2023-09-11
+Paris,France,September 2023,20.4,18.2,18.8,2023-09-12
+Paris,France,September 2023,21.0,16.1,18.9,2023-09-13
+Paris,France,September 2023,25.2,18.1,21.6,2023-09-14
+Paris,France,September 2023,28.2,16.3,21.9,2023-09-15
+Paris,France,September 2023,27.1,17.9,21.5,2023-09-16
+Paris,France,September 2023,27.8,17.3,22.2,2023-09-17
+Paris,France,September 2023,24.5,17.2,20.8,2023-09-18
+Paris,France,September 2023,22.6,14.9,18.6,2023-09-19
+Paris,France,September 2023,24.9,16.0,20.3,2023-09-20
+Paris,France,September 2023,20.2,14.6,17.0,2023-09-21
+Paris,France,September 2023,19.4,11.8,15.0,2023-09-22
+Paris,France,September 2023,18.2,11.1,14.7,2023-09-23
+Paris,France,September 2023,21.3,11.4,16.2,2023-09-24
+Paris,France,September 2023,24.2,13.3,18.4,2023-09-25
+Paris,France,September 2023,24.9,15.9,20.1,2023-09-26
+Paris,France,September 2023,26.2,16.8,21.2,2023-09-27
+Paris,France,September 2023,24.2,16.2,20.2,2023-09-28
+Paris,France,September 2023,23.6,16.0,20.0,2023-09-29
+Paris,France,September 2023,21.9,12.6,17.1,2023-09-30
+Paris,France,October   2023,27.0,15.2,20.7,2023-10-01
+Paris,France,October   2023,28.8,17.7,22.9,2023-10-02
+Paris,France,October   2023,23.4,14.7,19.0,2023-10-03
+Paris,France,October   2023,19.1,12.7,15.6,2023-10-04
+Paris,France,October   2023,19.8,12.8,16.3,2023-10-05
+Paris,France,October   2023,21.8,13.7,17.4,2023-10-06
+Paris,France,October   2023,24.5,13.8,18.7,2023-10-07
+Paris,France,October   2023,25.3,15.8,20.0,2023-10-08
+Paris,France,October   2023,25.8,15.8,20.4,2023-10-09
+Paris,France,October   2023,27.9,16.6,21.5,2023-10-10
+Paris,France,October   2023,25.4,17.1,21.2,2023-10-11
+Paris,France,October   2023,24.4,18.5,21.0,2023-10-12
+Paris,France,October   2023,27.1,18.4,21.4,2023-10-13
+Paris,France,October   2023,18.7,12.3,14.5,2023-10-14
+Paris,France,October   2023,14.0,9.7,12.2,2023-10-15
+Paris,France,October   2023,14.1,6.8,10.0,2023-10-16
+Paris,France,October   2023,17.6,6.4,11.9,2023-10-17
+Paris,France,October   2023,22.1,14.4,16.9,2023-10-18
+Paris,France,October   2023,18.4,14.2,15.5,2023-10-19
+Paris,France,October   2023,17.4,13.9,15.5,2023-10-20
+Paris,France,October   2023,14.2,10.8,12.5,2023-10-21
+Paris,France,October   2023,16.9,12.1,13.9,2023-10-22
+Paris,France,October   2023,16.1,11.4,13.6,2023-10-23
+Paris,France,October   2023,16.5,10.9,13.4,2023-10-24
+Paris,France,October   2023,13.8,11.3,12.8,2023-10-25
+Paris,France,October   2023,15.8,11.3,13.0,2023-10-26
+Paris,France,October   2023,15.5,11.0,12.8,2023-10-27
+Paris,France,October   2023,14.5,10.9,12.8,2023-10-28
+Paris,France,October   2023,14.2,12.6,13.2,2023-10-29
+Paris,France,October   2023,12.6,10.7,12.0,2023-10-30
+Paris,France,October   2023,14.7,9.0,11.7,2023-10-31
+Paris,France,November  2023,13.8,11.1,12.3,2023-11-01
+Paris,France,November  2023,12.9,9.1,11.3,2023-11-02
+Paris,France,November  2023,12.1,6.3,8.9,2023-11-03
+Paris,France,November  2023,13.3,7.7,10.1,2023-11-04
+Paris,France,November  2023,13.3,10.4,11.6,2023-11-05
+Paris,France,November  2023,13.5,8.9,10.6,2023-11-06
+Paris,France,November  2023,12.5,7.6,9.8,2023-11-07
+Paris,France,November  2023,12.6,7.6,10.1,2023-11-08
+Paris,France,November  2023,12.6,7.9,10.5,2023-11-09
+Paris,France,November  2023,11.0,6.6,8.8,2023-11-10
+Paris,France,November  2023,11.4,6.7,8.7,2023-11-11
+Paris,France,November  2023,12.9,7.1,10.0,2023-11-12
+Paris,France,November  2023,16.6,11.8,14.5,2023-11-13
+Paris,France,November  2023,14.0,11.1,12.3,2023-11-14
+Paris,France,November  2023,13.4,9.5,11.4,2023-11-15
+Paris,France,November  2023,13.0,8.9,10.5,2023-11-16
+Paris,France,November  2023,11.0,7.4,8.8,2023-11-17
+Paris,France,November  2023,13.4,8.6,10.4,2023-11-18
+Paris,France,November  2023,15.0,11.7,13.4,2023-11-19
+Paris,France,November  2023,12.3,9.9,10.9,2023-11-20
+Paris,France,November  2023,12.1,7.8,9.5,2023-11-21
+Paris,France,November  2023,9.6,5.9,7.6,2023-11-22
+Paris,France,November  2023,11.9,6.8,9.8,2023-11-23
+Paris,France,November  2023,11.1,4.9,9.1,2023-11-24
+Paris,France,November  2023,7.3,4.0,5.4,2023-11-25
+Paris,France,November  2023,7.0,4.5,5.6,2023-11-26
+Paris,France,November  2023,8.7,4.4,6.1,2023-11-27
+Paris,France,November  2023,7.7,3.7,6.2,2023-11-28
+Paris,France,November  2023,7.1,4.1,5.3,2023-11-29
+Paris,France,November  2023,5.0,3.3,4.1,2023-11-30
+Paris,France,December  2023,4.4,-0.4,2.6,2023-12-01
+Paris,France,December  2023,3.2,-1.1,0.6,2023-12-02
+Paris,France,December  2023,3.5,-0.3,1.6,2023-12-03
+Paris,France,December  2023,8.0,1.7,5.0,2023-12-04
+Paris,France,December  2023,7.1,5.1,6.5,2023-12-05
+Paris,France,December  2023,7.3,4.1,5.9,2023-12-06
+Paris,France,December  2023,6.7,3.9,5.3,2023-12-07
+Paris,France,December  2023,10.1,6.5,8.0,2023-12-08
+Paris,France,December  2023,13.0,6.5,9.0,2023-12-09
+Paris,France,December  2023,13.1,7.2,9.6,2023-12-10
+Paris,France,December  2023,12.6,10.5,11.6,2023-12-11
+Paris,France,December  2023,12.6,9.5,10.8,2023-12-12
+Paris,France,December  2023,10.4,7.6,9.2,2023-12-13
+Paris,France,December  2023,8.5,7.2,7.9,2023-12-14
+Paris,France,December  2023,9.9,6.7,7.9,2023-12-15
+Paris,France,December  2023,8.6,4.9,6.5,2023-12-16
+Paris,France,December  2023,8.8,4.5,6.3,2023-12-17
+Paris,France,December  2023,8.5,4.1,5.8,2023-12-18
+Paris,France,December  2023,9.2,3.8,6.4,2023-12-19
+Paris,France,December  2023,9.0,5.4,7.3,2023-12-20
+Paris,France,December  2023,11.6,9.2,10.5,2023-12-21
+Paris,France,December  2023,11.6,9.3,10.5,2023-12-22
+Paris,France,December  2023,10.6,7.1,9.1,2023-12-23
+Paris,France,December  2023,11.4,7.8,9.8,2023-12-24
+Paris,France,December  2023,11.6,9.3,10.6,2023-12-25
+Paris,France,December  2023,11.6,9.3,10.4,2023-12-26
+Paris,France,December  2023,10.3,7.9,9.1,2023-12-27
+Paris,France,December  2023,10.9,9.0,9.9,2023-12-28
+Paris,France,December  2023,11.0,8.6,9.8,2023-12-29
+Paris,France,December  2023,10.8,7.3,9.2,2023-12-30
+Paris,France,December  2023,10.9,7.5,9.1,2023-12-31
+Paris,France,January   2024,9.6,6.3,7.9,2024-01-01
+Paris,France,January   2024,11.6,9.0,10.6,2024-01-02
+Paris,France,January   2024,12.0,9.8,10.9,2024-01-03
+Paris,France,January   2024,10.7,7.3,9.3,2024-01-04
+Paris,France,January   2024,10.3,6.2,8.0,2024-01-05
+Paris,France,January   2024,6.4,5.1,5.7,2024-01-06
+Paris,France,January   2024,4.7,0.0,2.6,2024-01-07
+Paris,France,January   2024,0.7,-2.1,-0.8,2024-01-08
+Paris,France,January   2024,0.9,-1.5,-0.5,2024-01-09
+Paris,France,January   2024,1.4,-1.5,-0.7,2024-01-10
+Paris,France,January   2024,3.4,-0.6,0.6,2024-01-11
+Paris,France,January   2024,4.6,-0.6,1.1,2024-01-12
+Paris,France,January   2024,3.3,-0.7,0.8,2024-01-13
+Paris,France,January   2024,3.4,-0.5,1.1,2024-01-14
+Paris,France,January   2024,3.4,-0.1,1.7,2024-01-15
+Paris,France,January   2024,1.9,-1.0,0.1,2024-01-16
+Paris,France,January   2024,12.0,0.5,5.8,2024-01-17
+Paris,France,January   2024,1.0,-2.7,-0.5,2024-01-18
+Paris,France,January   2024,0.9,-3.1,-1.7,2024-01-19
+Paris,France,January   2024,0.4,-3.8,-2.2,2024-01-20
+Paris,France,January   2024,7.1,-0.8,3.2,2024-01-21
+Paris,France,January   2024,11.9,7.0,9.2,2024-01-22
+Paris,France,January   2024,12.8,5.7,8.5,2024-01-23
+Paris,France,January   2024,13.1,10.4,12.2,2024-01-24
+Paris,France,January   2024,11.9,10.3,11.0,2024-01-25
+Paris,France,January   2024,11.7,5.6,9.7,2024-01-26
+Paris,France,January   2024,7.8,2.5,4.8,2024-01-27
+Paris,France,January   2024,10.3,3.7,6.5,2024-01-28
+Paris,France,January   2024,11.8,6.5,8.6,2024-01-29
+Paris,France,January   2024,11.4,7.2,9.1,2024-01-30
+Paris,France,January   2024,11.4,4.8,7.5,2024-01-31
+Paris,France,February  2024,9.4,6.6,8.4,2024-02-01
+Paris,France,February  2024,11.7,4.7,7.9,2024-02-02
+Paris,France,February  2024,13.7,9.6,11.3,2024-02-03
+Paris,France,February  2024,13.2,10.1,11.3,2024-02-04
+Paris,France,February  2024,13.7,6.7,9.7,2024-02-05
+Paris,France,February  2024,13.1,9.8,11.0,2024-02-06
+Paris,France,February  2024,11.8,10.8,11.1,2024-02-07
+Paris,France,February  2024,12.5,10.5,11.7,2024-02-08
+Paris,France,February  2024,12.7,10.3,11.3,2024-02-09
+Paris,France,February  2024,10.0,7.9,8.8,2024-02-10
+Paris,France,February  2024,10.3,6.5,8.2,2024-02-11
+Paris,France,February  2024,11.1,5.4,7.7,2024-02-12
+Paris,France,February  2024,11.4,4.6,7.9,2024-02-13
+Paris,France,February  2024,13.5,9.1,10.9,2024-02-14
+Paris,France,February  2024,16.1,10.0,12.5,2024-02-15
+Paris,France,February  2024,14.0,9.2,11.7,2024-02-16
+Paris,France,February  2024,13.5,6.6,9.7,2024-02-17
+Paris,France,February  2024,10.1,8.0,8.8,2024-02-18
+Paris,France,February  2024,12.9,8.5,10.5,2024-02-19
+Paris,France,February  2024,12.0,6.9,9.2,2024-02-20
+Paris,France,February  2024,10.7,8.6,9.4,2024-02-21
+Paris,France,February  2024,12.1,6.0,10.4,2024-02-22
+Paris,France,February  2024,8.7,4.3,5.7,2024-02-23
+Paris,France,February  2024,9.1,1.9,4.9,2024-02-24
+Paris,France,February  2024,7.8,4.3,6.2,2024-02-25
+Paris,France,February  2024,8.4,6.1,7.2,2024-02-26
+Paris,France,February  2024,9.7,4.4,6.6,2024-02-27
+Paris,France,February  2024,11.3,3.3,7.2,2024-02-28
+Paris,France,February  2024,9.1,5.6,8.1,2024-02-29
+Paris,France,March     2024,8.4,4.5,6.5,2024-03-01
+Paris,France,March     2024,7.9,5.1,6.3,2024-03-02
+Paris,France,March     2024,9.0,4.4,6.6,2024-03-03
+Paris,France,March     2024,10.8,3.1,6.7,2024-03-04
+Paris,France,March     2024,9.3,5.3,6.6,2024-03-05
+Paris,France,March     2024,10.0,5.0,7.6,2024-03-06
+Paris,France,March     2024,12.7,3.4,7.8,2024-03-07
+Paris,France,March     2024,13.8,3.9,8.5,2024-03-08
+Paris,France,March     2024,12.0,7.2,8.9,2024-03-09
+Paris,France,March     2024,11.4,7.2,8.9,2024-03-10
+Paris,France,March     2024,9.4,6.6,7.7,2024-03-11
+Paris,France,March     2024,11.2,7.8,9.1,2024-03-12
+Paris,France,March     2024,14.9,8.0,11.0,2024-03-13
+Paris,France,March     2024,16.4,7.7,11.8,2024-03-14
+Paris,France,March     2024,14.8,10.8,12.5,2024-03-15
+Paris,France,March     2024,14.7,9.8,11.9,2024-03-16
+Paris,France,March     2024,12.8,10.7,11.6,2024-03-17
+Paris,France,March     2024,16.9,9.5,13.2,2024-03-18
+Paris,France,March     2024,19.0,12.0,14.9,2024-03-19
+Paris,France,March     2024,17.7,10.3,13.9,2024-03-20
+Paris,France,March     2024,18.5,10.9,14.6,2024-03-21
+Paris,France,March     2024,19.3,10.5,14.7,2024-03-22
+Paris,France,March     2024,9.9,5.7,7.5,2024-03-23
+Paris,France,March     2024,10.0,4.6,6.8,2024-03-24
+Paris,France,March     2024,11.4,4.2,7.8,2024-03-25
+Paris,France,March     2024,9.9,6.2,8.4,2024-03-26
+Paris,France,March     2024,12.5,5.8,8.2,2024-03-27
+Paris,France,March     2024,11.0,4.8,8.3,2024-03-28
+Paris,France,March     2024,13.0,8.5,10.2,2024-03-29
+Paris,France,March     2024,11.7,7.2,8.6,2024-03-30
+Paris,France,March     2024,10.0,6.0,8.0,2024-03-31
+Paris,France,April     2024,14.1,7.2,9.6,2024-04-01
+Paris,France,April     2024,15.3,8.2,11.0,2024-04-02
+Paris,France,April     2024,16.6,9.4,11.9,2024-04-03
+Paris,France,April     2024,16.5,11.5,13.3,2024-04-04
+Paris,France,April     2024,16.4,12.0,14.3,2024-04-05
+Paris,France,April     2024,25.1,12.3,17.3,2024-04-06
+Paris,France,April     2024,15.7,12.3,13.4,2024-04-07
+Paris,France,April     2024,21.6,11.1,15.2,2024-04-08
+Paris,France,April     2024,11.6,7.6,9.6,2024-04-09
+Paris,France,April     2024,15.5,5.7,10.6,2024-04-10
+Paris,France,April     2024,16.7,10.2,13.4,2024-04-11
+Paris,France,April     2024,22.2,13.9,17.5,2024-04-12
+Paris,France,April     2024,24.0,13.3,18.4,2024-04-13
+Paris,France,April     2024,18.7,11.7,15.0,2024-04-14
+Paris,France,April     2024,13.1,7.8,10.3,2024-04-15
+Paris,France,April     2024,13.6,6.6,9.3,2024-04-16
+Prague,Czech Republic,April     2023,11.2,7.0,8.8,2023-04-18
+Prague,Czech Republic,April     2023,6.9,3.5,5.6,2023-04-19
+Prague,Czech Republic,April     2023,13.2,1.6,6.9,2023-04-20
+Prague,Czech Republic,April     2023,15.8,4.2,10.7,2023-04-21
+Prague,Czech Republic,April     2023,18.6,5.5,12.5,2023-04-22
+Prague,Czech Republic,April     2023,15.8,7.0,11.6,2023-04-23
+Prague,Czech Republic,April     2023,14.9,8.0,11.2,2023-04-24
+Prague,Czech Republic,April     2023,10.4,3.9,7.2,2023-04-25
+Prague,Czech Republic,April     2023,11.0,1.7,6.3,2023-04-26
+Prague,Czech Republic,April     2023,12.7,2.5,8.2,2023-04-27
+Prague,Czech Republic,April     2023,16.5,3.6,9.6,2023-04-28
+Prague,Czech Republic,April     2023,15.5,7.9,11.9,2023-04-29
+Prague,Czech Republic,April     2023,14.3,7.2,10.9,2023-04-30
+Prague,Czech Republic,May       2023,16.9,3.4,10.9,2023-05-01
+Prague,Czech Republic,May       2023,15.3,6.9,11.3,2023-05-02
+Prague,Czech Republic,May       2023,13.7,5.5,9.1,2023-05-03
+Prague,Czech Republic,May       2023,15.3,4.1,10.3,2023-05-04
+Prague,Czech Republic,May       2023,20.2,6.5,13.7,2023-05-05
+Prague,Czech Republic,May       2023,17.8,9.6,12.7,2023-05-06
+Prague,Czech Republic,May       2023,16.2,7.6,12.0,2023-05-07
+Prague,Czech Republic,May       2023,14.2,3.4,8.9,2023-05-08
+Prague,Czech Republic,May       2023,18.8,2.6,11.1,2023-05-09
+Prague,Czech Republic,May       2023,15.3,7.2,11.6,2023-05-10
+Prague,Czech Republic,May       2023,17.0,10.4,13.8,2023-05-11
+Prague,Czech Republic,May       2023,13.8,8.6,11.3,2023-05-12
+Prague,Czech Republic,May       2023,16.0,7.9,11.9,2023-05-13
+Prague,Czech Republic,May       2023,16.5,6.6,11.9,2023-05-14
+Prague,Czech Republic,May       2023,17.0,8.6,12.2,2023-05-15
+Prague,Czech Republic,May       2023,13.6,8.1,10.9,2023-05-16
+Prague,Czech Republic,May       2023,11.6,7.1,8.9,2023-05-17
+Prague,Czech Republic,May       2023,14.7,5.9,10.0,2023-05-18
+Prague,Czech Republic,May       2023,14.0,7.9,10.7,2023-05-19
+Prague,Czech Republic,May       2023,21.1,7.3,15.1,2023-05-20
+Prague,Czech Republic,May       2023,24.5,12.2,18.3,2023-05-21
+Prague,Czech Republic,May       2023,24.5,11.8,18.5,2023-05-22
+Prague,Czech Republic,May       2023,20.3,12.3,16.2,2023-05-23
+Prague,Czech Republic,May       2023,15.8,9.1,12.3,2023-05-24
+Prague,Czech Republic,May       2023,20.2,6.1,13.2,2023-05-25
+Prague,Czech Republic,May       2023,20.4,9.0,14.7,2023-05-26
+Prague,Czech Republic,May       2023,20.3,6.8,13.7,2023-05-27
+Prague,Czech Republic,May       2023,20.0,7.7,14.4,2023-05-28
+Prague,Czech Republic,May       2023,21.8,9.9,16.0,2023-05-29
+Prague,Czech Republic,May       2023,20.3,10.8,15.8,2023-05-30
+Prague,Czech Republic,May       2023,23.3,8.2,15.8,2023-05-31
+Prague,Czech Republic,June      2023,23.3,10.4,17.3,2023-06-01
+Prague,Czech Republic,June      2023,20.1,10.2,15.1,2023-06-02
+Prague,Czech Republic,June      2023,19.4,7.8,13.4,2023-06-03
+Prague,Czech Republic,June      2023,20.9,6.9,14.7,2023-06-04
+Prague,Czech Republic,June      2023,20.6,9.9,15.5,2023-06-05
+Prague,Czech Republic,June      2023,17.4,12.3,14.4,2023-06-06
+Prague,Czech Republic,June      2023,21.2,11.7,16.5,2023-06-07
+Prague,Czech Republic,June      2023,22.2,12.6,17.6,2023-06-08
+Prague,Czech Republic,June      2023,23.0,13.6,18.4,2023-06-09
+Prague,Czech Republic,June      2023,22.4,13.3,18.1,2023-06-10
+Prague,Czech Republic,June      2023,22.4,13.0,17.6,2023-06-11
+Prague,Czech Republic,June      2023,20.4,10.2,15.7,2023-06-12
+Prague,Czech Republic,June      2023,17.6,8.8,13.6,2023-06-13
+Prague,Czech Republic,June      2023,19.6,8.7,14.9,2023-06-14
+Prague,Czech Republic,June      2023,21.2,9.5,15.8,2023-06-15
+Prague,Czech Republic,June      2023,21.0,11.2,15.8,2023-06-16
+Prague,Czech Republic,June      2023,21.9,10.6,16.8,2023-06-17
+Prague,Czech Republic,June      2023,26.0,12.0,19.0,2023-06-18
+Prague,Czech Republic,June      2023,29.4,13.5,20.9,2023-06-19
+Prague,Czech Republic,June      2023,30.4,15.4,23.3,2023-06-20
+Prague,Czech Republic,June      2023,30.2,19.3,24.2,2023-06-21
+Prague,Czech Republic,June      2023,31.4,17.6,24.7,2023-06-22
+Prague,Czech Republic,June      2023,22.0,15.7,19.3,2023-06-23
+Prague,Czech Republic,June      2023,24.7,12.9,18.3,2023-06-24
+Prague,Czech Republic,June      2023,25.1,12.9,19.7,2023-06-25
+Prague,Czech Republic,June      2023,28.2,15.1,22.1,2023-06-26
+Prague,Czech Republic,June      2023,21.7,14.4,17.8,2023-06-27
+Prague,Czech Republic,June      2023,23.1,11.0,16.8,2023-06-28
+Prague,Czech Republic,June      2023,26.9,11.8,19.6,2023-06-29
+Prague,Czech Republic,June      2023,23.0,14.8,18.9,2023-06-30
+Prague,Czech Republic,July      2023,26.1,15.7,20.0,2023-07-01
+Prague,Czech Republic,July      2023,24.5,15.3,19.4,2023-07-02
+Prague,Czech Republic,July      2023,24.0,12.8,19.4,2023-07-03
+Prague,Czech Republic,July      2023,25.8,14.9,20.1,2023-07-04
+Prague,Czech Republic,July      2023,24.8,14.7,20.2,2023-07-05
+Prague,Czech Republic,July      2023,25.0,13.0,19.5,2023-07-06
+Prague,Czech Republic,July      2023,28.3,13.2,21.1,2023-07-07
+Prague,Czech Republic,July      2023,30.4,14.1,23.0,2023-07-08
+Prague,Czech Republic,July      2023,32.6,16.1,24.6,2023-07-09
+Prague,Czech Republic,July      2023,31.5,18.8,24.3,2023-07-10
+Prague,Czech Republic,July      2023,31.0,16.3,24.0,2023-07-11
+Prague,Czech Republic,July      2023,29.4,20.1,24.3,2023-07-12
+Prague,Czech Republic,July      2023,27.0,17.5,22.1,2023-07-13
+Prague,Czech Republic,July      2023,27.8,14.8,22.0,2023-07-14
+Prague,Czech Republic,July      2023,35.2,15.9,26.0,2023-07-15
+Prague,Czech Republic,July      2023,28.8,20.4,24.6,2023-07-16
+Prague,Czech Republic,July      2023,29.0,16.8,22.7,2023-07-17
+Prague,Czech Republic,July      2023,28.9,15.1,22.1,2023-07-18
+Prague,Czech Republic,July      2023,29.3,15.5,22.1,2023-07-19
+Prague,Czech Republic,July      2023,25.4,14.6,19.8,2023-07-20
+Prague,Czech Republic,July      2023,26.0,14.7,19.5,2023-07-21
+Prague,Czech Republic,July      2023,23.8,13.2,18.5,2023-07-22
+Prague,Czech Republic,July      2023,28.9,14.5,22.1,2023-07-23
+Prague,Czech Republic,July      2023,28.8,17.0,22.5,2023-07-24
+Prague,Czech Republic,July      2023,23.1,14.2,18.8,2023-07-25
+Prague,Czech Republic,July      2023,20.4,12.3,15.8,2023-07-26
+Prague,Czech Republic,July      2023,22.7,11.5,16.9,2023-07-27
+Prague,Czech Republic,July      2023,25.3,14.3,18.8,2023-07-28
+Prague,Czech Republic,July      2023,25.8,16.1,20.3,2023-07-29
+Prague,Czech Republic,July      2023,25.5,15.4,19.5,2023-07-30
+Prague,Czech Republic,July      2023,22.8,13.3,18.0,2023-07-31
+Prague,Czech Republic,August    2023,19.8,15.6,17.8,2023-08-01
+Prague,Czech Republic,August    2023,20.1,14.1,17.1,2023-08-02
+Prague,Czech Republic,August    2023,22.7,15.9,19.0,2023-08-03
+Prague,Czech Republic,August    2023,23.1,15.1,18.8,2023-08-04
+Prague,Czech Republic,August    2023,18.1,15.0,16.5,2023-08-05
+Prague,Czech Republic,August    2023,19.3,12.8,15.2,2023-08-06
+Prague,Czech Republic,August    2023,14.5,11.2,12.8,2023-08-07
+Prague,Czech Republic,August    2023,19.5,10.1,15.1,2023-08-08
+Prague,Czech Republic,August    2023,20.3,12.8,15.9,2023-08-09
+Prague,Czech Republic,August    2023,21.9,11.2,16.3,2023-08-10
+Prague,Czech Republic,August    2023,25.6,12.8,19.3,2023-08-11
+Prague,Czech Republic,August    2023,29.9,15.2,22.5,2023-08-12
+Prague,Czech Republic,August    2023,28.5,18.0,22.9,2023-08-13
+Prague,Czech Republic,August    2023,30.5,19.6,24.5,2023-08-14
+Prague,Czech Republic,August    2023,31.5,18.3,24.6,2023-08-15
+Prague,Czech Republic,August    2023,29.0,19.4,24.0,2023-08-16
+Prague,Czech Republic,August    2023,29.8,18.8,23.0,2023-08-17
+Prague,Czech Republic,August    2023,28.8,18.6,23.9,2023-08-18
+Prague,Czech Republic,August    2023,31.2,19.0,24.7,2023-08-19
+Prague,Czech Republic,August    2023,32.3,20.1,25.7,2023-08-20
+Prague,Czech Republic,August    2023,31.7,20.7,25.4,2023-08-21
+Prague,Czech Republic,August    2023,31.9,19.8,25.3,2023-08-22
+Prague,Czech Republic,August    2023,29.5,19.5,23.9,2023-08-23
+Prague,Czech Republic,August    2023,30.4,18.7,24.2,2023-08-24
+Prague,Czech Republic,August    2023,33.7,20.9,26.8,2023-08-25
+Prague,Czech Republic,August    2023,26.3,17.5,21.8,2023-08-26
+Prague,Czech Republic,August    2023,22.8,13.4,17.7,2023-08-27
+Prague,Czech Republic,August    2023,19.0,12.0,15.2,2023-08-28
+Prague,Czech Republic,August    2023,14.7,11.6,13.2,2023-08-29
+Prague,Czech Republic,August    2023,19.4,12.4,14.7,2023-08-30
+Prague,Czech Republic,August    2023,20.8,12.3,15.9,2023-08-31
+Prague,Czech Republic,September 2023,21.7,11.8,15.6,2023-09-01
+Prague,Czech Republic,September 2023,24.6,14.5,19.1,2023-09-02
+Prague,Czech Republic,September 2023,22.3,14.6,18.1,2023-09-03
+Prague,Czech Republic,September 2023,22.7,12.5,17.4,2023-09-04
+Prague,Czech Republic,September 2023,24.3,13.4,18.5,2023-09-05
+Prague,Czech Republic,September 2023,27.0,13.5,19.7,2023-09-06
+Prague,Czech Republic,September 2023,27.6,14.6,20.6,2023-09-07
+Prague,Czech Republic,September 2023,28.1,14.6,20.9,2023-09-08
+Prague,Czech Republic,September 2023,28.3,15.0,21.1,2023-09-09
+Prague,Czech Republic,September 2023,28.5,15.2,21.6,2023-09-10
+Prague,Czech Republic,September 2023,28.4,16.9,22.5,2023-09-11
+Prague,Czech Republic,September 2023,28.8,18.3,23.3,2023-09-12
+Prague,Czech Republic,September 2023,25.0,15.7,19.8,2023-09-13
+Prague,Czech Republic,September 2023,22.0,12.5,16.6,2023-09-14
+Prague,Czech Republic,September 2023,23.6,12.2,17.4,2023-09-15
+Prague,Czech Republic,September 2023,26.3,12.9,19.2,2023-09-16
+Prague,Czech Republic,September 2023,26.7,13.8,20.0,2023-09-17
+Prague,Czech Republic,September 2023,28.0,15.3,21.4,2023-09-18
+Prague,Czech Republic,September 2023,22.5,14.9,18.4,2023-09-19
+Prague,Czech Republic,September 2023,24.9,13.2,18.7,2023-09-20
+Prague,Czech Republic,September 2023,25.4,14.1,19.2,2023-09-21
+Prague,Czech Republic,September 2023,17.3,12.5,15.2,2023-09-22
+Prague,Czech Republic,September 2023,18.3,11.0,14.4,2023-09-23
+Prague,Czech Republic,September 2023,19.5,10.0,14.4,2023-09-24
+Prague,Czech Republic,September 2023,21.1,10.3,15.4,2023-09-25
+Prague,Czech Republic,September 2023,26.2,13.4,19.1,2023-09-26
+Prague,Czech Republic,September 2023,25.4,13.4,18.9,2023-09-27
+Prague,Czech Republic,September 2023,24.3,12.2,18.1,2023-09-28
+Prague,Czech Republic,September 2023,25.4,13.6,19.3,2023-09-29
+Prague,Czech Republic,September 2023,20.4,12.9,16.4,2023-09-30
+Prague,Czech Republic,October   2023,23.0,10.3,16.0,2023-10-01
+Prague,Czech Republic,October   2023,25.1,12.5,18.0,2023-10-02
+Prague,Czech Republic,October   2023,26.9,13.9,19.6,2023-10-03
+Prague,Czech Republic,October   2023,18.6,10.9,14.1,2023-10-04
+Prague,Czech Republic,October   2023,18.6,9.6,13.6,2023-10-05
+Prague,Czech Republic,October   2023,19.2,9.2,13.7,2023-10-06
+Prague,Czech Republic,October   2023,18.7,12.5,15.9,2023-10-07
+Prague,Czech Republic,October   2023,17.6,6.8,12.1,2023-10-08
+Prague,Czech Republic,October   2023,14.9,5.7,9.9,2023-10-09
+Prague,Czech Republic,October   2023,19.0,12.3,15.5,2023-10-10
+Prague,Czech Republic,October   2023,23.9,12.3,17.4,2023-10-11
+Prague,Czech Republic,October   2023,19.1,14.0,15.7,2023-10-12
+Prague,Czech Republic,October   2023,22.6,13.7,17.2,2023-10-13
+Prague,Czech Republic,October   2023,19.5,10.0,14.8,2023-10-14
+Prague,Czech Republic,October   2023,11.7,4.6,7.6,2023-10-15
+Prague,Czech Republic,October   2023,9.8,2.5,6.0,2023-10-16
+Prague,Czech Republic,October   2023,11.0,4.6,7.0,2023-10-17
+Prague,Czech Republic,October   2023,13.6,2.8,7.3,2023-10-18
+Prague,Czech Republic,October   2023,12.7,5.4,8.7,2023-10-19
+Prague,Czech Republic,October   2023,15.6,7.7,11.6,2023-10-20
+Prague,Czech Republic,October   2023,18.0,10.9,13.9,2023-10-21
+Prague,Czech Republic,October   2023,16.4,9.7,12.6,2023-10-22
+Prague,Czech Republic,October   2023,16.0,8.1,11.5,2023-10-23
+Prague,Czech Republic,October   2023,15.0,8.7,11.5,2023-10-24
+Prague,Czech Republic,October   2023,15.5,10.9,12.3,2023-10-25
+Prague,Czech Republic,October   2023,14.1,9.7,11.5,2023-10-26
+Prague,Czech Republic,October   2023,12.0,9.2,10.4,2023-10-27
+Prague,Czech Republic,October   2023,12.9,7.6,9.9,2023-10-28
+Prague,Czech Republic,October   2023,16.5,8.0,11.3,2023-10-29
+Prague,Czech Republic,October   2023,16.8,8.7,11.8,2023-10-30
+Prague,Czech Republic,October   2023,12.0,9.7,10.8,2023-10-31
+Prague,Czech Republic,November  2023,14.7,9.1,11.3,2023-11-01
+Prague,Czech Republic,November  2023,14.6,7.1,10.5,2023-11-02
+Prague,Czech Republic,November  2023,9.4,5.6,8.1,2023-11-03
+Prague,Czech Republic,November  2023,10.7,4.7,7.3,2023-11-04
+Prague,Czech Republic,November  2023,11.9,6.8,9.0,2023-11-05
+Prague,Czech Republic,November  2023,12.6,8.4,10.0,2023-11-06
+Prague,Czech Republic,November  2023,11.8,6.5,9.0,2023-11-07
+Prague,Czech Republic,November  2023,8.7,4.8,7.3,2023-11-08
+Prague,Czech Republic,November  2023,10.8,3.5,6.4,2023-11-09
+Prague,Czech Republic,November  2023,9.7,5.1,7.3,2023-11-10
+Prague,Czech Republic,November  2023,5.9,3.3,4.8,2023-11-11
+Prague,Czech Republic,November  2023,6.9,2.1,4.7,2023-11-12
+Prague,Czech Republic,November  2023,12.8,2.0,5.7,2023-11-13
+Prague,Czech Republic,November  2023,13.0,9.0,10.1,2023-11-14
+Prague,Czech Republic,November  2023,9.2,7.4,8.1,2023-11-15
+Prague,Czech Republic,November  2023,9.0,6.1,7.5,2023-11-16
+Prague,Czech Republic,November  2023,6.7,2.1,4.3,2023-11-17
+Prague,Czech Republic,November  2023,5.7,1.6,3.2,2023-11-18
+Prague,Czech Republic,November  2023,10.3,2.6,6.9,2023-11-19
+Prague,Czech Republic,November  2023,10.5,7.8,9.3,2023-11-20
+Prague,Czech Republic,November  2023,8.6,3.5,6.4,2023-11-21
+Prague,Czech Republic,November  2023,4.0,0.1,1.8,2023-11-22
+Prague,Czech Republic,November  2023,6.9,0.1,4.1,2023-11-23
+Prague,Czech Republic,November  2023,7.8,1.2,4.2,2023-11-24
+Prague,Czech Republic,November  2023,2.5,-1.4,0.7,2023-11-25
+Prague,Czech Republic,November  2023,1.4,-2.5,-0.4,2023-11-26
+Prague,Czech Republic,November  2023,3.2,0.6,1.5,2023-11-27
+Prague,Czech Republic,November  2023,2.2,-2.0,0.6,2023-11-28
+Prague,Czech Republic,November  2023,-1.6,-9.2,-5.5,2023-11-29
+Prague,Czech Republic,November  2023,-1.2,-6.6,-3.1,2023-11-30
+Prague,Czech Republic,December  2023,-1.6,-3.4,-2.2,2023-12-01
+Prague,Czech Republic,December  2023,-2.1,-4.7,-3.0,2023-12-02
+Prague,Czech Republic,December  2023,-3.9,-13.4,-9.7,2023-12-03
+Prague,Czech Republic,December  2023,-4.2,-17.2,-10.4,2023-12-04
+Prague,Czech Republic,December  2023,-0.9,-8.2,-3.6,2023-12-05
+Prague,Czech Republic,December  2023,0.8,-4.4,-0.8,2023-12-06
+Prague,Czech Republic,December  2023,0.2,-9.5,-3.9,2023-12-07
+Prague,Czech Republic,December  2023,-1.2,-11.0,-5.8,2023-12-08
+Prague,Czech Republic,December  2023,1.5,-0.7,0.5,2023-12-09
+Prague,Czech Republic,December  2023,4.5,1.2,3.4,2023-12-10
+Prague,Czech Republic,December  2023,8.0,3.6,6.1,2023-12-11
+Prague,Czech Republic,December  2023,7.6,4.4,6.3,2023-12-12
+Prague,Czech Republic,December  2023,8.1,5.2,6.7,2023-12-13
+Prague,Czech Republic,December  2023,5.4,3.7,4.7,2023-12-14
+Prague,Czech Republic,December  2023,4.9,2.5,3.5,2023-12-15
+Prague,Czech Republic,December  2023,6.6,2.6,4.2,2023-12-16
+Prague,Czech Republic,December  2023,6.9,2.8,4.4,2023-12-17
+Prague,Czech Republic,December  2023,8.7,3.8,5.5,2023-12-18
+Prague,Czech Republic,December  2023,8.2,4.2,5.9,2023-12-19
+Prague,Czech Republic,December  2023,5.0,2.9,3.9,2023-12-20
+Prague,Czech Republic,December  2023,7.8,3.1,5.0,2023-12-21
+Prague,Czech Republic,December  2023,4.8,0.4,2.9,2023-12-22
+Prague,Czech Republic,December  2023,6.6,1.1,3.9,2023-12-23
+Prague,Czech Republic,December  2023,9.2,6.2,7.5,2023-12-24
+Prague,Czech Republic,December  2023,9.6,8.2,9.0,2023-12-25
+Prague,Czech Republic,December  2023,9.8,6.4,8.2,2023-12-26
+Prague,Czech Republic,December  2023,7.4,3.5,5.5,2023-12-27
+Prague,Czech Republic,December  2023,9.4,3.1,6.2,2023-12-28
+Prague,Czech Republic,December  2023,9.6,7.4,8.1,2023-12-29
+Prague,Czech Republic,December  2023,9.0,4.9,7.7,2023-12-30
+Prague,Czech Republic,December  2023,6.2,2.9,4.3,2023-12-31
+Prague,Czech Republic,January   2024,5.9,3.4,4.7,2024-01-01
+Prague,Czech Republic,January   2024,7.7,2.4,4.2,2024-01-02
+Prague,Czech Republic,January   2024,9.6,7.2,8.4,2024-01-03
+Prague,Czech Republic,January   2024,8.0,4.8,6.5,2024-01-04
+Prague,Czech Republic,January   2024,6.5,2.8,4.2,2024-01-05
+Prague,Czech Republic,January   2024,5.0,2.2,3.8,2024-01-06
+Prague,Czech Republic,January   2024,2.3,-5.5,-1.6,2024-01-07
+Prague,Czech Republic,January   2024,-4.6,-7.6,-6.4,2024-01-08
+Prague,Czech Republic,January   2024,-3.2,-7.1,-5.6,2024-01-09
+Prague,Czech Republic,January   2024,0.0,-5.3,-3.3,2024-01-10
+Prague,Czech Republic,January   2024,-0.2,-4.5,-2.5,2024-01-11
+Prague,Czech Republic,January   2024,0.3,-2.5,-1.5,2024-01-12
+Prague,Czech Republic,January   2024,1.0,-3.5,-1.4,2024-01-13
+Prague,Czech Republic,January   2024,2.6,-0.4,0.8,2024-01-14
+Prague,Czech Republic,January   2024,1.6,-1.0,-0.2,2024-01-15
+Prague,Czech Republic,January   2024,0.1,-2.4,-1.3,2024-01-16
+Prague,Czech Republic,January   2024,2.5,-2.8,-0.6,2024-01-17
+Prague,Czech Republic,January   2024,7.4,-3.1,1.0,2024-01-18
+Prague,Czech Republic,January   2024,-0.1,-5.1,-3.3,2024-01-19
+Prague,Czech Republic,January   2024,-0.2,-6.0,-3.7,2024-01-20
+Prague,Czech Republic,January   2024,0.2,-7.9,-4.2,2024-01-21
+Prague,Czech Republic,January   2024,5.2,-4.0,1.1,2024-01-22
+Prague,Czech Republic,January   2024,4.7,1.8,3.6,2024-01-23
+Prague,Czech Republic,January   2024,10.7,2.4,7.1,2024-01-24
+Prague,Czech Republic,January   2024,6.9,2.3,5.0,2024-01-25
+Prague,Czech Republic,January   2024,8.2,1.8,4.8,2024-01-26
+Prague,Czech Republic,January   2024,5.9,0.8,2.6,2024-01-27
+Prague,Czech Republic,January   2024,6.4,0.2,2.2,2024-01-28
+Prague,Czech Republic,January   2024,7.1,0.1,2.2,2024-01-29
+Prague,Czech Republic,January   2024,6.3,-0.3,2.1,2024-01-30
+Prague,Czech Republic,January   2024,8.0,2.6,4.4,2024-01-31
+Prague,Czech Republic,February  2024,6.1,1.7,4.7,2024-02-01
+Prague,Czech Republic,February  2024,5.2,0.8,2.9,2024-02-02
+Prague,Czech Republic,February  2024,8.4,5.8,7.3,2024-02-03
+Prague,Czech Republic,February  2024,10.2,7.7,8.8,2024-02-04
+Prague,Czech Republic,February  2024,11.6,8.1,9.8,2024-02-05
+Prague,Czech Republic,February  2024,8.6,7.1,7.8,2024-02-06
+Prague,Czech Republic,February  2024,8.8,1.0,5.7,2024-02-07
+Prague,Czech Republic,February  2024,9.8,1.3,4.4,2024-02-08
+Prague,Czech Republic,February  2024,10.4,7.1,8.2,2024-02-09
+Prague,Czech Republic,February  2024,10.8,6.6,8.2,2024-02-10
+Prague,Czech Republic,February  2024,8.5,5.7,7.1,2024-02-11
+Prague,Czech Republic,February  2024,7.4,4.5,6.2,2024-02-12
+Prague,Czech Republic,February  2024,7.6,3.2,5.2,2024-02-13
+Prague,Czech Republic,February  2024,6.9,2.3,4.8,2024-02-14
+Prague,Czech Republic,February  2024,11.6,6.6,8.5,2024-02-15
+Prague,Czech Republic,February  2024,12.2,5.2,8.2,2024-02-16
+Prague,Czech Republic,February  2024,13.3,5.9,9.9,2024-02-17
+Prague,Czech Republic,February  2024,10.1,3.7,6.9,2024-02-18
+Prague,Czech Republic,February  2024,8.4,6.9,7.7,2024-02-19
+Prague,Czech Republic,February  2024,7.7,3.7,5.9,2024-02-20
+Prague,Czech Republic,February  2024,9.0,5.3,6.7,2024-02-21
+Prague,Czech Republic,February  2024,10.2,6.6,7.7,2024-02-22
+Prague,Czech Republic,February  2024,10.1,3.4,6.9,2024-02-23
+Prague,Czech Republic,February  2024,9.5,2.3,5.6,2024-02-24
+Prague,Czech Republic,February  2024,9.3,2.5,5.5,2024-02-25
+Prague,Czech Republic,February  2024,7.4,2.2,5.0,2024-02-26
+Prague,Czech Republic,February  2024,9.1,3.4,5.9,2024-02-27
+Prague,Czech Republic,February  2024,7.4,5.2,6.1,2024-02-28
+Prague,Czech Republic,February  2024,10.7,3.6,7.3,2024-02-29
+Prague,Czech Republic,March     2024,12.5,5.6,9.2,2024-03-01
+Prague,Czech Republic,March     2024,12.0,8.2,9.4,2024-03-02
+Prague,Czech Republic,March     2024,12.2,7.4,9.3,2024-03-03
+Prague,Czech Republic,March     2024,12.7,4.9,8.5,2024-03-04
+Prague,Czech Republic,March     2024,9.5,5.5,7.3,2024-03-05
+Prague,Czech Republic,March     2024,9.8,5.7,6.8,2024-03-06
+Prague,Czech Republic,March     2024,5.3,1.7,3.6,2024-03-07
+Prague,Czech Republic,March     2024,8.0,-0.1,3.9,2024-03-08
+Prague,Czech Republic,March     2024,8.2,3.6,5.4,2024-03-09
+Prague,Czech Republic,March     2024,12.9,3.7,8.3,2024-03-10
+Prague,Czech Republic,March     2024,12.7,7.5,9.6,2024-03-11
+Prague,Czech Republic,March     2024,10.8,5.6,7.9,2024-03-12
+Prague,Czech Republic,March     2024,11.7,6.0,7.9,2024-03-13
+Prague,Czech Republic,March     2024,11.9,5.9,8.5,2024-03-14
+Prague,Czech Republic,March     2024,15.4,7.3,10.9,2024-03-15
+Prague,Czech Republic,March     2024,12.3,6.7,9.6,2024-03-16
+Prague,Czech Republic,March     2024,10.0,3.5,6.3,2024-03-17
+Prague,Czech Republic,March     2024,9.3,2.0,5.2,2024-03-18
+Prague,Czech Republic,March     2024,9.8,0.3,5.0,2024-03-19
+Prague,Czech Republic,March     2024,13.7,3.6,8.8,2024-03-20
+Prague,Czech Republic,March     2024,14.4,7.6,10.0,2024-03-21
+Prague,Czech Republic,March     2024,13.9,5.9,9.6,2024-03-22
+Prague,Czech Republic,March     2024,13.0,4.0,7.6,2024-03-23
+Prague,Czech Republic,March     2024,6.9,1.9,4.1,2024-03-24
+Prague,Czech Republic,March     2024,7.6,2.3,4.8,2024-03-25
+Prague,Czech Republic,March     2024,13.0,1.1,7.0,2024-03-26
+Prague,Czech Republic,March     2024,18.4,5.5,11.8,2024-03-27
+Prague,Czech Republic,March     2024,12.6,4.6,8.7,2024-03-28
+Prague,Czech Republic,March     2024,16.4,3.7,10.0,2024-03-29
+Prague,Czech Republic,March     2024,21.3,8.1,14.3,2024-03-30
+Prague,Czech Republic,March     2024,19.4,10.1,14.0,2024-03-31
+Prague,Czech Republic,April     2024,19.8,8.1,12.3,2024-04-01
+Prague,Czech Republic,April     2024,12.0,8.1,9.2,2024-04-02
+Prague,Czech Republic,April     2024,11.3,6.2,8.5,2024-04-03
+Prague,Czech Republic,April     2024,15.3,9.4,11.6,2024-04-04
+Prague,Czech Republic,April     2024,19.2,9.0,13.6,2024-04-05
+Prague,Czech Republic,April     2024,22.8,13.1,16.6,2024-04-06
+Prague,Czech Republic,April     2024,26.4,12.1,18.6,2024-04-07
+Prague,Czech Republic,April     2024,26.0,14.4,19.4,2024-04-08
+Prague,Czech Republic,April     2024,24.1,10.4,16.5,2024-04-09
+Prague,Czech Republic,April     2024,13.7,7.6,10.2,2024-04-10
+Prague,Czech Republic,April     2024,17.5,5.8,11.6,2024-04-11
+Prague,Czech Republic,April     2024,19.3,8.5,14.2,2024-04-12
+Prague,Czech Republic,April     2024,21.7,10.3,15.9,2024-04-13
+Prague,Czech Republic,April     2024,20.7,10.1,15.2,2024-04-14
+Prague,Czech Republic,April     2024,15.4,6.0,12.1,2024-04-15
+Prague,Czech Republic,April     2024,10.7,4.1,6.6,2024-04-16
+Rome,Italy,April     2023,15.5,9.3,12.3,2023-04-18
+Rome,Italy,April     2023,16.4,8.9,12.6,2023-04-19
+Rome,Italy,April     2023,18.7,9.4,13.6,2023-04-20
+Rome,Italy,April     2023,21.4,9.3,15.2,2023-04-21
+Rome,Italy,April     2023,22.4,9.8,15.8,2023-04-22
+Rome,Italy,April     2023,21.5,11.6,16.1,2023-04-23
+Rome,Italy,April     2023,19.4,11.9,15.1,2023-04-24
+Rome,Italy,April     2023,19.8,10.3,15.0,2023-04-25
+Rome,Italy,April     2023,21.9,9.3,14.7,2023-04-26
+Rome,Italy,April     2023,21.9,9.5,15.4,2023-04-27
+Rome,Italy,April     2023,21.7,9.9,15.7,2023-04-28
+Rome,Italy,April     2023,22.0,12.7,16.8,2023-04-29
+Rome,Italy,April     2023,18.3,13.3,15.3,2023-04-30
+Rome,Italy,May       2023,16.7,14.0,15.2,2023-05-01
+Rome,Italy,May       2023,20.1,13.3,15.9,2023-05-02
+Rome,Italy,May       2023,21.1,12.5,15.9,2023-05-03
+Rome,Italy,May       2023,22.5,11.3,16.7,2023-05-04
+Rome,Italy,May       2023,24.6,11.9,17.8,2023-05-05
+Rome,Italy,May       2023,24.7,12.8,18.2,2023-05-06
+Rome,Italy,May       2023,24.4,13.1,18.3,2023-05-07
+Rome,Italy,May       2023,19.6,13.6,16.3,2023-05-08
+Rome,Italy,May       2023,23.7,13.0,17.7,2023-05-09
+Rome,Italy,May       2023,17.0,14.0,15.4,2023-05-10
+Rome,Italy,May       2023,20.0,12.0,15.7,2023-05-11
+Rome,Italy,May       2023,20.1,12.1,15.8,2023-05-12
+Rome,Italy,May       2023,17.2,12.3,14.5,2023-05-13
+Rome,Italy,May       2023,18.3,12.9,15.3,2023-05-14
+Rome,Italy,May       2023,19.0,10.8,14.8,2023-05-15
+Rome,Italy,May       2023,18.6,11.7,14.7,2023-05-16
+Rome,Italy,May       2023,18.9,12.5,15.7,2023-05-17
+Rome,Italy,May       2023,19.6,12.5,16.2,2023-05-18
+Rome,Italy,May       2023,23.0,13.1,18.0,2023-05-19
+Rome,Italy,May       2023,21.6,14.3,17.2,2023-05-20
+Rome,Italy,May       2023,23.3,14.8,18.2,2023-05-21
+Rome,Italy,May       2023,24.7,14.0,18.8,2023-05-22
+Rome,Italy,May       2023,24.5,13.6,19.1,2023-05-23
+Rome,Italy,May       2023,25.9,14.0,19.8,2023-05-24
+Rome,Italy,May       2023,27.7,15.0,20.4,2023-05-25
+Rome,Italy,May       2023,28.7,14.8,21.6,2023-05-26
+Rome,Italy,May       2023,28.4,15.8,21.8,2023-05-27
+Rome,Italy,May       2023,26.6,15.5,21.3,2023-05-28
+Rome,Italy,May       2023,26.1,16.5,20.8,2023-05-29
+Rome,Italy,May       2023,26.0,15.4,20.5,2023-05-30
+Rome,Italy,May       2023,26.2,15.1,20.3,2023-05-31
+Rome,Italy,June      2023,26.1,15.0,20.7,2023-06-01
+Rome,Italy,June      2023,26.9,15.3,21.0,2023-06-02
+Rome,Italy,June      2023,27.0,16.1,21.2,2023-06-03
+Rome,Italy,June      2023,26.4,15.7,21.0,2023-06-04
+Rome,Italy,June      2023,23.8,17.3,20.5,2023-06-05
+Rome,Italy,June      2023,24.5,16.7,20.9,2023-06-06
+Rome,Italy,June      2023,26.9,15.5,21.1,2023-06-07
+Rome,Italy,June      2023,27.2,17.0,21.8,2023-06-08
+Rome,Italy,June      2023,27.5,17.4,22.1,2023-06-09
+Rome,Italy,June      2023,24.3,19.5,21.4,2023-06-10
+Rome,Italy,June      2023,27.0,18.0,22.2,2023-06-11
+Rome,Italy,June      2023,28.8,18.8,23.3,2023-06-12
+Rome,Italy,June      2023,26.3,18.0,22.0,2023-06-13
+Rome,Italy,June      2023,25.2,18.0,20.8,2023-06-14
+Rome,Italy,June      2023,26.3,17.2,21.3,2023-06-15
+Rome,Italy,June      2023,28.4,16.8,22.4,2023-06-16
+Rome,Italy,June      2023,30.0,17.3,23.3,2023-06-17
+Rome,Italy,June      2023,30.1,17.2,23.9,2023-06-18
+Rome,Italy,June      2023,31.1,18.1,24.5,2023-06-19
+Rome,Italy,June      2023,31.4,18.4,25.0,2023-06-20
+Rome,Italy,June      2023,33.7,19.6,26.6,2023-06-21
+Rome,Italy,June      2023,36.5,21.1,28.6,2023-06-22
+Rome,Italy,June      2023,31.4,21.8,25.9,2023-06-23
+Rome,Italy,June      2023,30.4,20.1,24.9,2023-06-24
+Rome,Italy,June      2023,30.2,19.9,24.9,2023-06-25
+Rome,Italy,June      2023,32.6,20.1,26.1,2023-06-26
+Rome,Italy,June      2023,32.6,19.9,26.3,2023-06-27
+Rome,Italy,June      2023,30.3,20.3,25.5,2023-06-28
+Rome,Italy,June      2023,30.8,21.2,25.7,2023-06-29
+Rome,Italy,June      2023,30.3,21.2,25.3,2023-06-30
+Rome,Italy,July      2023,26.3,20.7,23.0,2023-07-01
+Rome,Italy,July      2023,28.7,18.8,23.7,2023-07-02
+Rome,Italy,July      2023,28.1,20.6,24.0,2023-07-03
+Rome,Italy,July      2023,29.8,20.2,24.5,2023-07-04
+Rome,Italy,July      2023,30.8,19.5,25.3,2023-07-05
+Rome,Italy,July      2023,31.3,18.9,25.5,2023-07-06
+Rome,Italy,July      2023,33.8,20.6,26.9,2023-07-07
+Rome,Italy,July      2023,34.4,22.9,28.3,2023-07-08
+Rome,Italy,July      2023,36.4,22.3,29.1,2023-07-09
+Rome,Italy,July      2023,37.1,22.4,29.6,2023-07-10
+Rome,Italy,July      2023,36.0,23.6,29.5,2023-07-11
+Rome,Italy,July      2023,35.5,23.0,29.0,2023-07-12
+Rome,Italy,July      2023,34.7,24.4,28.9,2023-07-13
+Rome,Italy,July      2023,34.3,23.3,27.9,2023-07-14
+Rome,Italy,July      2023,34.5,22.7,28.1,2023-07-15
+Rome,Italy,July      2023,36.5,22.1,29.4,2023-07-16
+Rome,Italy,July      2023,39.2,22.4,30.5,2023-07-17
+Rome,Italy,July      2023,41.0,23.1,32.2,2023-07-18
+Rome,Italy,July      2023,38.8,24.0,30.9,2023-07-19
+Rome,Italy,July      2023,36.2,24.4,29.8,2023-07-20
+Rome,Italy,July      2023,36.3,24.8,29.9,2023-07-21
+Rome,Italy,July      2023,35.0,25.0,29.1,2023-07-22
+Rome,Italy,July      2023,36.4,24.1,29.5,2023-07-23
+Rome,Italy,July      2023,38.8,25.0,31.1,2023-07-24
+Rome,Italy,July      2023,37.3,25.0,30.7,2023-07-25
+Rome,Italy,July      2023,31.3,23.5,26.7,2023-07-26
+Rome,Italy,July      2023,31.7,21.0,26.0,2023-07-27
+Rome,Italy,July      2023,31.6,21.1,25.9,2023-07-28
+Rome,Italy,July      2023,33.1,20.7,26.5,2023-07-29
+Rome,Italy,July      2023,33.7,22.1,27.4,2023-07-30
+Rome,Italy,July      2023,35.0,22.6,28.1,2023-07-31
+Rome,Italy,August    2023,31.8,23.0,26.8,2023-08-01
+Rome,Italy,August    2023,31.9,22.3,25.8,2023-08-02
+Rome,Italy,August    2023,33.3,21.9,27.0,2023-08-03
+Rome,Italy,August    2023,30.1,21.4,25.4,2023-08-04
+Rome,Italy,August    2023,25.4,19.2,22.4,2023-08-05
+Rome,Italy,August    2023,28.0,19.1,23.4,2023-08-06
+Rome,Italy,August    2023,28.1,19.4,23.7,2023-08-07
+Rome,Italy,August    2023,29.7,18.5,24.0,2023-08-08
+Rome,Italy,August    2023,29.7,19.8,24.0,2023-08-09
+Rome,Italy,August    2023,30.4,18.8,24.5,2023-08-10
+Rome,Italy,August    2023,31.6,20.2,25.8,2023-08-11
+Rome,Italy,August    2023,32.5,20.6,26.1,2023-08-12
+Rome,Italy,August    2023,31.7,20.3,25.8,2023-08-13
+Rome,Italy,August    2023,31.0,20.2,25.6,2023-08-14
+Rome,Italy,August    2023,31.2,22.0,26.0,2023-08-15
+Rome,Italy,August    2023,32.9,22.5,26.9,2023-08-16
+Rome,Italy,August    2023,33.9,22.8,27.4,2023-08-17
+Rome,Italy,August    2023,34.9,23.0,28.0,2023-08-18
+Rome,Italy,August    2023,35.0,22.7,28.8,2023-08-19
+Rome,Italy,August    2023,35.5,23.6,29.2,2023-08-20
+Rome,Italy,August    2023,38.4,24.8,30.8,2023-08-21
+Rome,Italy,August    2023,37.7,24.9,30.8,2023-08-22
+Rome,Italy,August    2023,35.8,25.2,30.0,2023-08-23
+Rome,Italy,August    2023,36.9,24.9,30.4,2023-08-24
+Rome,Italy,August    2023,35.1,25.5,29.8,2023-08-25
+Rome,Italy,August    2023,35.1,25.0,29.2,2023-08-26
+Rome,Italy,August    2023,33.5,24.0,28.5,2023-08-27
+Rome,Italy,August    2023,26.5,19.5,23.2,2023-08-28
+Rome,Italy,August    2023,24.1,18.8,20.8,2023-08-29
+Rome,Italy,August    2023,23.9,17.6,20.8,2023-08-30
+Rome,Italy,August    2023,27.0,17.9,22.2,2023-08-31
+Rome,Italy,September 2023,27.9,19.9,23.4,2023-09-01
+Rome,Italy,September 2023,29.8,20.1,24.2,2023-09-02
+Rome,Italy,September 2023,31.3,20.9,25.4,2023-09-03
+Rome,Italy,September 2023,31.2,22.0,26.2,2023-09-04
+Rome,Italy,September 2023,29.8,18.7,24.2,2023-09-05
+Rome,Italy,September 2023,31.4,19.5,25.2,2023-09-06
+Rome,Italy,September 2023,32.6,20.9,26.3,2023-09-07
+Rome,Italy,September 2023,32.1,21.6,26.5,2023-09-08
+Rome,Italy,September 2023,31.9,22.0,26.8,2023-09-09
+Rome,Italy,September 2023,32.1,22.1,26.5,2023-09-10
+Rome,Italy,September 2023,31.2,21.7,25.6,2023-09-11
+Rome,Italy,September 2023,30.6,20.3,25.0,2023-09-12
+Rome,Italy,September 2023,29.0,21.0,24.6,2023-09-13
+Rome,Italy,September 2023,28.8,21.0,24.5,2023-09-14
+Rome,Italy,September 2023,29.1,21.2,24.6,2023-09-15
+Rome,Italy,September 2023,29.3,21.2,24.8,2023-09-16
+Rome,Italy,September 2023,30.6,21.7,25.6,2023-09-17
+Rome,Italy,September 2023,31.5,22.0,26.2,2023-09-18
+Rome,Italy,September 2023,30.1,22.4,25.7,2023-09-19
+Rome,Italy,September 2023,27.3,22.6,24.3,2023-09-20
+Rome,Italy,September 2023,28.1,20.0,23.5,2023-09-21
+Rome,Italy,September 2023,26.7,21.8,23.9,2023-09-22
+Rome,Italy,September 2023,24.0,18.5,20.6,2023-09-23
+Rome,Italy,September 2023,24.8,15.7,19.6,2023-09-24
+Rome,Italy,September 2023,26.0,16.0,20.4,2023-09-25
+Rome,Italy,September 2023,28.4,16.8,22.1,2023-09-26
+Rome,Italy,September 2023,30.0,19.4,23.9,2023-09-27
+Rome,Italy,September 2023,28.3,19.4,23.4,2023-09-28
+Rome,Italy,September 2023,28.0,19.5,23.1,2023-09-29
+Rome,Italy,September 2023,28.1,18.6,22.9,2023-09-30
+Rome,Italy,October   2023,28.1,19.3,23.2,2023-10-01
+Rome,Italy,October   2023,28.4,19.2,23.3,2023-10-02
+Rome,Italy,October   2023,28.7,19.8,23.4,2023-10-03
+Rome,Italy,October   2023,26.4,19.1,22.2,2023-10-04
+Rome,Italy,October   2023,25.9,18.8,21.8,2023-10-05
+Rome,Italy,October   2023,27.0,18.5,22.0,2023-10-06
+Rome,Italy,October   2023,26.9,19.0,22.4,2023-10-07
+Rome,Italy,October   2023,28.2,18.7,22.6,2023-10-08
+Rome,Italy,October   2023,27.1,19.1,22.3,2023-10-09
+Rome,Italy,October   2023,26.1,17.9,21.4,2023-10-10
+Rome,Italy,October   2023,28.8,19.2,23.2,2023-10-11
+Rome,Italy,October   2023,27.9,19.0,22.7,2023-10-12
+Rome,Italy,October   2023,26.8,18.2,21.8,2023-10-13
+Rome,Italy,October   2023,26.0,18.0,21.5,2023-10-14
+Rome,Italy,October   2023,24.2,19.6,21.4,2023-10-15
+Rome,Italy,October   2023,23.3,18.3,20.2,2023-10-16
+Rome,Italy,October   2023,20.7,16.3,18.3,2023-10-17
+Rome,Italy,October   2023,20.8,16.8,18.8,2023-10-18
+Rome,Italy,October   2023,25.0,18.0,21.1,2023-10-19
+Rome,Italy,October   2023,27.1,18.3,22.3,2023-10-20
+Rome,Italy,October   2023,20.4,16.4,18.5,2023-10-21
+Rome,Italy,October   2023,20.9,16.2,18.2,2023-10-22
+Rome,Italy,October   2023,24.0,16.7,19.7,2023-10-23
+Rome,Italy,October   2023,24.6,17.8,20.7,2023-10-24
+Rome,Italy,October   2023,21.9,17.3,19.3,2023-10-25
+Rome,Italy,October   2023,21.1,16.7,18.7,2023-10-26
+Rome,Italy,October   2023,21.2,18.2,19.5,2023-10-27
+Rome,Italy,October   2023,21.1,17.2,18.9,2023-10-28
+Rome,Italy,October   2023,22.2,16.0,18.6,2023-10-29
+Rome,Italy,October   2023,24.3,16.3,20.2,2023-10-30
+Rome,Italy,October   2023,20.7,16.8,18.8,2023-10-31
+Rome,Italy,November  2023,18.9,15.3,16.4,2023-11-01
+Rome,Italy,November  2023,19.5,14.1,17.3,2023-11-02
+Rome,Italy,November  2023,19.8,12.4,15.9,2023-11-03
+Rome,Italy,November  2023,18.0,12.2,15.0,2023-11-04
+Rome,Italy,November  2023,19.1,16.0,17.7,2023-11-05
+Rome,Italy,November  2023,19.2,14.9,16.7,2023-11-06
+Rome,Italy,November  2023,16.5,14.3,15.2,2023-11-07
+Rome,Italy,November  2023,17.6,12.2,14.7,2023-11-08
+Rome,Italy,November  2023,17.2,10.9,13.8,2023-11-09
+Rome,Italy,November  2023,15.8,13.2,14.2,2023-11-10
+Rome,Italy,November  2023,16.2,11.1,13.4,2023-11-11
+Rome,Italy,November  2023,17.4,13.2,14.9,2023-11-12
+Rome,Italy,November  2023,18.8,10.8,14.3,2023-11-13
+Rome,Italy,November  2023,19.0,13.6,16.1,2023-11-14
+Rome,Italy,November  2023,20.7,15.2,17.7,2023-11-15
+Rome,Italy,November  2023,18.7,13.1,15.3,2023-11-16
+Rome,Italy,November  2023,19.7,12.8,16.5,2023-11-17
+Rome,Italy,November  2023,17.1,10.3,13.3,2023-11-18
+Rome,Italy,November  2023,17.2,10.3,13.4,2023-11-19
+Rome,Italy,November  2023,17.7,14.0,15.9,2023-11-20
+Rome,Italy,November  2023,17.3,12.6,15.5,2023-11-21
+Rome,Italy,November  2023,16.6,11.8,13.6,2023-11-22
+Rome,Italy,November  2023,19.6,11.0,14.3,2023-11-23
+Rome,Italy,November  2023,17.4,11.5,14.0,2023-11-24
+Rome,Italy,November  2023,13.0,6.3,10.8,2023-11-25
+Rome,Italy,November  2023,11.7,4.1,7.7,2023-11-26
+Rome,Italy,November  2023,12.9,8.4,10.5,2023-11-27
+Rome,Italy,November  2023,14.6,10.0,12.6,2023-11-28
+Rome,Italy,November  2023,14.3,7.7,10.7,2023-11-29
+Rome,Italy,November  2023,16.4,10.8,14.0,2023-11-30
+Rome,Italy,December  2023,19.0,14.4,16.0,2023-12-01
+Rome,Italy,December  2023,16.5,11.7,14.0,2023-12-02
+Rome,Italy,December  2023,13.7,8.3,11.1,2023-12-03
+Rome,Italy,December  2023,12.2,7.6,9.9,2023-12-04
+Rome,Italy,December  2023,12.5,9.3,10.2,2023-12-05
+Rome,Italy,December  2023,11.5,6.9,9.3,2023-12-06
+Rome,Italy,December  2023,11.7,4.8,7.7,2023-12-07
+Rome,Italy,December  2023,11.6,5.8,8.6,2023-12-08
+Rome,Italy,December  2023,12.8,7.5,10.0,2023-12-09
+Rome,Italy,December  2023,14.9,9.7,11.5,2023-12-10
+Rome,Italy,December  2023,15.6,9.5,12.2,2023-12-11
+Rome,Italy,December  2023,16.3,12.9,14.2,2023-12-12
+Rome,Italy,December  2023,17.0,12.9,14.3,2023-12-13
+Rome,Italy,December  2023,13.9,9.6,12.3,2023-12-14
+Rome,Italy,December  2023,14.9,8.3,10.8,2023-12-15
+Rome,Italy,December  2023,13.0,7.0,9.3,2023-12-16
+Rome,Italy,December  2023,12.1,5.2,7.9,2023-12-17
+Rome,Italy,December  2023,13.1,5.4,8.5,2023-12-18
+Rome,Italy,December  2023,14.1,6.7,9.5,2023-12-19
+Rome,Italy,December  2023,13.0,7.2,10.1,2023-12-20
+Rome,Italy,December  2023,13.5,7.8,10.4,2023-12-21
+Rome,Italy,December  2023,14.6,9.9,11.7,2023-12-22
+Rome,Italy,December  2023,15.2,8.8,11.8,2023-12-23
+Rome,Italy,December  2023,13.7,12.4,12.8,2023-12-24
+Rome,Italy,December  2023,14.4,10.8,12.4,2023-12-25
+Rome,Italy,December  2023,14.6,10.7,12.9,2023-12-26
+Rome,Italy,December  2023,15.0,9.0,11.3,2023-12-27
+Rome,Italy,December  2023,14.3,8.5,10.8,2023-12-28
+Rome,Italy,December  2023,13.4,8.6,10.7,2023-12-29
+Rome,Italy,December  2023,14.1,9.6,11.4,2023-12-30
+Rome,Italy,December  2023,13.0,9.1,11.0,2023-12-31
+Rome,Italy,January   2024,13.3,10.5,11.5,2024-01-01
+Rome,Italy,January   2024,14.2,8.7,11.0,2024-01-02
+Rome,Italy,January   2024,14.2,10.9,12.2,2024-01-03
+Rome,Italy,January   2024,15.7,10.8,12.8,2024-01-04
+Rome,Italy,January   2024,14.0,10.8,12.3,2024-01-05
+Rome,Italy,January   2024,13.0,10.4,11.7,2024-01-06
+Rome,Italy,January   2024,13.9,9.7,11.1,2024-01-07
+Rome,Italy,January   2024,12.8,8.5,10.1,2024-01-08
+Rome,Italy,January   2024,8.7,6.3,7.9,2024-01-09
+Rome,Italy,January   2024,10.9,8.2,9.1,2024-01-10
+Rome,Italy,January   2024,10.3,6.7,8.5,2024-01-11
+Rome,Italy,January   2024,11.4,4.5,7.3,2024-01-12
+Rome,Italy,January   2024,11.1,4.1,7.0,2024-01-13
+Rome,Italy,January   2024,12.3,7.1,9.9,2024-01-14
+Rome,Italy,January   2024,13.4,8.9,10.7,2024-01-15
+Rome,Italy,January   2024,14.7,9.1,11.4,2024-01-16
+Rome,Italy,January   2024,13.7,9.8,11.8,2024-01-17
+Rome,Italy,January   2024,16.4,12.7,14.3,2024-01-18
+Rome,Italy,January   2024,15.5,11.8,13.3,2024-01-19
+Rome,Italy,January   2024,11.8,4.7,9.1,2024-01-20
+Rome,Italy,January   2024,10.2,2.6,5.9,2024-01-21
+Rome,Italy,January   2024,11.4,3.9,6.9,2024-01-22
+Rome,Italy,January   2024,12.4,6.8,8.9,2024-01-23
+Rome,Italy,January   2024,13.4,6.7,9.4,2024-01-24
+Rome,Italy,January   2024,14.2,7.5,10.3,2024-01-25
+Rome,Italy,January   2024,14.5,7.6,10.4,2024-01-26
+Rome,Italy,January   2024,15.9,8.4,11.6,2024-01-27
+Rome,Italy,January   2024,14.3,7.8,10.3,2024-01-28
+Rome,Italy,January   2024,13.4,5.7,9.0,2024-01-29
+Rome,Italy,January   2024,13.4,5.3,8.6,2024-01-30
+Rome,Italy,January   2024,12.0,5.3,8.2,2024-01-31
+Rome,Italy,February  2024,13.2,5.6,8.9,2024-02-01
+Rome,Italy,February  2024,14.7,6.1,9.8,2024-02-02
+Rome,Italy,February  2024,15.7,6.9,10.6,2024-02-03
+Rome,Italy,February  2024,16.4,8.2,11.4,2024-02-04
+Rome,Italy,February  2024,15.1,10.0,12.5,2024-02-05
+Rome,Italy,February  2024,15.8,9.8,12.2,2024-02-06
+Rome,Italy,February  2024,16.4,9.1,12.1,2024-02-07
+Rome,Italy,February  2024,14.9,10.2,12.3,2024-02-08
+Rome,Italy,February  2024,15.9,10.3,12.8,2024-02-09
+Rome,Italy,February  2024,14.7,11.0,12.4,2024-02-10
+Rome,Italy,February  2024,12.0,9.9,11.0,2024-02-11
+Rome,Italy,February  2024,14.1,7.9,10.5,2024-02-12
+Rome,Italy,February  2024,15.8,7.2,11.0,2024-02-13
+Rome,Italy,February  2024,15.5,6.5,10.6,2024-02-14
+Rome,Italy,February  2024,17.0,7.2,11.3,2024-02-15
+Rome,Italy,February  2024,15.9,9.5,12.2,2024-02-16
+Rome,Italy,February  2024,18.0,9.4,13.0,2024-02-17
+Rome,Italy,February  2024,17.6,9.7,12.9,2024-02-18
+Rome,Italy,February  2024,14.1,10.6,12.1,2024-02-19
+Rome,Italy,February  2024,16.5,9.3,11.9,2024-02-20
+Rome,Italy,February  2024,16.5,7.9,11.7,2024-02-21
+Rome,Italy,February  2024,14.8,8.2,11.3,2024-02-22
+Rome,Italy,February  2024,14.3,10.0,12.2,2024-02-23
+Rome,Italy,February  2024,13.0,8.8,10.5,2024-02-24
+Rome,Italy,February  2024,15.2,7.6,10.8,2024-02-25
+Rome,Italy,February  2024,12.9,7.3,10.1,2024-02-26
+Rome,Italy,February  2024,16.7,11.0,13.4,2024-02-27
+Rome,Italy,February  2024,18.6,11.3,13.9,2024-02-28
+Rome,Italy,February  2024,17.3,9.5,12.4,2024-02-29
+Rome,Italy,March     2024,13.6,9.7,11.4,2024-03-01
+Rome,Italy,March     2024,14.1,9.5,11.4,2024-03-02
+Rome,Italy,March     2024,16.0,8.3,11.5,2024-03-03
+Rome,Italy,March     2024,13.8,7.4,10.3,2024-03-04
+Rome,Italy,March     2024,14.2,7.0,10.4,2024-03-05
+Rome,Italy,March     2024,13.6,7.6,10.3,2024-03-06
+Rome,Italy,March     2024,13.8,5.9,9.2,2024-03-07
+Rome,Italy,March     2024,14.9,6.6,10.5,2024-03-08
+Rome,Italy,March     2024,13.2,9.1,10.6,2024-03-09
+Rome,Italy,March     2024,14.8,9.9,11.8,2024-03-10
+Rome,Italy,March     2024,13.9,8.5,11.0,2024-03-11
+Rome,Italy,March     2024,15.4,7.7,10.7,2024-03-12
+Rome,Italy,March     2024,15.8,7.4,11.1,2024-03-13
+Rome,Italy,March     2024,17.1,7.9,11.8,2024-03-14
+Rome,Italy,March     2024,15.9,8.4,11.8,2024-03-15
+Rome,Italy,March     2024,15.0,9.7,12.1,2024-03-16
+Rome,Italy,March     2024,18.4,8.9,13.1,2024-03-17
+Rome,Italy,March     2024,15.6,10.5,13.1,2024-03-18
+Rome,Italy,March     2024,18.5,10.7,14.4,2024-03-19
+Rome,Italy,March     2024,19.5,10.5,14.3,2024-03-20
+Rome,Italy,March     2024,18.6,10.3,13.8,2024-03-21
+Rome,Italy,March     2024,18.6,11.2,14.2,2024-03-22
+Rome,Italy,March     2024,17.7,10.1,13.6,2024-03-23
+Rome,Italy,March     2024,16.7,9.4,13.3,2024-03-24
+Rome,Italy,March     2024,17.3,7.2,12.0,2024-03-25
+Rome,Italy,March     2024,14.5,11.1,12.9,2024-03-26
+Rome,Italy,March     2024,15.5,7.0,11.2,2024-03-27
+Rome,Italy,March     2024,16.5,8.3,12.1,2024-03-28
+Rome,Italy,March     2024,20.4,12.1,15.9,2024-03-29
+Rome,Italy,March     2024,22.1,12.8,16.7,2024-03-30
+Rome,Italy,March     2024,20.1,13.3,16.1,2024-03-31
+Rome,Italy,April     2024,19.0,10.5,14.5,2024-04-01
+Rome,Italy,April     2024,16.5,9.9,12.7,2024-04-02
+Rome,Italy,April     2024,17.9,10.3,13.4,2024-04-03
+Rome,Italy,April     2024,18.8,9.9,14.0,2024-04-04
+Rome,Italy,April     2024,20.7,10.4,14.9,2024-04-05
+Rome,Italy,April     2024,22.1,10.9,15.8,2024-04-06
+Rome,Italy,April     2024,23.5,11.6,17.1,2024-04-07
+Rome,Italy,April     2024,23.8,13.8,17.7,2024-04-08
+Rome,Italy,April     2024,22.6,13.3,17.3,2024-04-09
+Rome,Italy,April     2024,16.0,9.8,13.6,2024-04-10
+Rome,Italy,April     2024,19.4,8.6,13.7,2024-04-11
+Rome,Italy,April     2024,24.7,11.6,17.7,2024-04-12
+Rome,Italy,April     2024,25.5,15.1,19.8,2024-04-13
+Rome,Italy,April     2024,25.6,16.0,20.2,2024-04-14
+Rome,Italy,April     2024,23.7,14.5,18.8,2024-04-15
+Rome,Italy,April     2024,19.6,13.1,16.2,2024-04-16
+Warsaw,Poland,April     2023,16.4,8.8,11.8,2023-04-18
+Warsaw,Poland,April     2023,14.0,7.8,10.7,2023-04-19
+Warsaw,Poland,April     2023,17.9,8.3,12.9,2023-04-20
+Warsaw,Poland,April     2023,18.3,6.5,12.2,2023-04-21
+Warsaw,Poland,April     2023,17.1,6.2,12.2,2023-04-22
+Warsaw,Poland,April     2023,19.2,8.8,14.3,2023-04-23
+Warsaw,Poland,April     2023,19.9,9.5,14.6,2023-04-24
+Warsaw,Poland,April     2023,12.4,7.4,10.4,2023-04-25
+Warsaw,Poland,April     2023,11.6,4.3,7.9,2023-04-26
+Warsaw,Poland,April     2023,11.7,2.5,7.5,2023-04-27
+Warsaw,Poland,April     2023,13.9,1.8,8.6,2023-04-28
+Warsaw,Poland,April     2023,15.3,7.6,10.9,2023-04-29
+Warsaw,Poland,April     2023,14.6,8.0,11.2,2023-04-30
+Warsaw,Poland,May       2023,17.1,4.1,10.4,2023-05-01
+Warsaw,Poland,May       2023,15.3,7.6,12.1,2023-05-02
+Warsaw,Poland,May       2023,13.7,6.8,10.5,2023-05-03
+Warsaw,Poland,May       2023,14.9,5.1,10.6,2023-05-04
+Warsaw,Poland,May       2023,13.1,7.0,9.9,2023-05-05
+Warsaw,Poland,May       2023,13.3,4.1,8.6,2023-05-06
+Warsaw,Poland,May       2023,13.8,5.8,9.7,2023-05-07
+Warsaw,Poland,May       2023,14.7,2.0,8.9,2023-05-08
+Warsaw,Poland,May       2023,16.1,3.6,10.5,2023-05-09
+Warsaw,Poland,May       2023,16.6,5.5,11.5,2023-05-10
+Warsaw,Poland,May       2023,18.3,6.2,12.4,2023-05-11
+Warsaw,Poland,May       2023,19.5,7.4,14.1,2023-05-12
+Warsaw,Poland,May       2023,19.9,8.3,14.7,2023-05-13
+Warsaw,Poland,May       2023,21.7,8.5,15.7,2023-05-14
+Warsaw,Poland,May       2023,15.2,10.9,12.9,2023-05-15
+Warsaw,Poland,May       2023,18.8,10.3,14.7,2023-05-16
+Warsaw,Poland,May       2023,13.2,8.7,11.2,2023-05-17
+Warsaw,Poland,May       2023,10.8,6.5,8.8,2023-05-18
+Warsaw,Poland,May       2023,13.7,7.7,10.8,2023-05-19
+Warsaw,Poland,May       2023,21.4,11.0,16.0,2023-05-20
+Warsaw,Poland,May       2023,22.9,10.9,17.1,2023-05-21
+Warsaw,Poland,May       2023,22.0,10.5,16.6,2023-05-22
+Warsaw,Poland,May       2023,22.8,12.3,17.7,2023-05-23
+Warsaw,Poland,May       2023,22.6,14.5,17.9,2023-05-24
+Warsaw,Poland,May       2023,20.9,12.5,16.7,2023-05-25
+Warsaw,Poland,May       2023,22.3,12.2,17.3,2023-05-26
+Warsaw,Poland,May       2023,20.5,7.3,14.1,2023-05-27
+Warsaw,Poland,May       2023,20.4,7.7,14.5,2023-05-28
+Warsaw,Poland,May       2023,23.8,10.6,17.4,2023-05-29
+Warsaw,Poland,May       2023,22.0,12.7,16.7,2023-05-30
+Warsaw,Poland,May       2023,22.9,9.0,16.4,2023-05-31
+Warsaw,Poland,June      2023,24.8,10.8,18.4,2023-06-01
+Warsaw,Poland,June      2023,16.9,9.6,13.4,2023-06-02
+Warsaw,Poland,June      2023,18.0,5.0,12.7,2023-06-03
+Warsaw,Poland,June      2023,21.9,8.5,15.6,2023-06-04
+Warsaw,Poland,June      2023,23.5,10.2,17.9,2023-06-05
+Warsaw,Poland,June      2023,25.1,12.1,19.3,2023-06-06
+Warsaw,Poland,June      2023,25.3,14.1,20.5,2023-06-07
+Warsaw,Poland,June      2023,25.8,12.0,19.8,2023-06-08
+Warsaw,Poland,June      2023,24.9,14.3,19.9,2023-06-09
+Warsaw,Poland,June      2023,23.7,15.4,19.6,2023-06-10
+Warsaw,Poland,June      2023,23.7,13.4,18.4,2023-06-11
+Warsaw,Poland,June      2023,21.3,10.4,16.0,2023-06-12
+Warsaw,Poland,June      2023,14.2,9.5,12.1,2023-06-13
+Warsaw,Poland,June      2023,18.5,11.1,14.6,2023-06-14
+Warsaw,Poland,June      2023,22.1,12.7,17.2,2023-06-15
+Warsaw,Poland,June      2023,24.7,13.3,19.2,2023-06-16
+Warsaw,Poland,June      2023,23.4,16.1,19.6,2023-06-17
+Warsaw,Poland,June      2023,23.7,15.2,19.6,2023-06-18
+Warsaw,Poland,June      2023,26.5,16.1,21.4,2023-06-19
+Warsaw,Poland,June      2023,29.2,16.7,23.0,2023-06-20
+Warsaw,Poland,June      2023,30.1,18.4,23.0,2023-06-21
+Warsaw,Poland,June      2023,29.5,19.1,23.6,2023-06-22
+Warsaw,Poland,June      2023,26.7,17.3,21.7,2023-06-23
+Warsaw,Poland,June      2023,20.3,16.1,18.0,2023-06-24
+Warsaw,Poland,June      2023,26.2,14.6,21.2,2023-06-25
+Warsaw,Poland,June      2023,27.6,15.7,22.4,2023-06-26
+Warsaw,Poland,June      2023,22.9,14.3,19.1,2023-06-27
+Warsaw,Poland,June      2023,20.9,12.0,16.8,2023-06-28
+Warsaw,Poland,June      2023,26.2,13.0,20.1,2023-06-29
+Warsaw,Poland,June      2023,26.8,15.8,21.4,2023-06-30
+Warsaw,Poland,July      2023,25.4,17.3,20.7,2023-07-01
+Warsaw,Poland,July      2023,24.3,16.8,19.4,2023-07-02
+Warsaw,Poland,July      2023,25.2,14.8,20.3,2023-07-03
+Warsaw,Poland,July      2023,27.6,14.3,21.4,2023-07-04
+Warsaw,Poland,July      2023,30.3,16.4,23.4,2023-07-05
+Warsaw,Poland,July      2023,23.2,16.4,20.4,2023-07-06
+Warsaw,Poland,July      2023,26.8,15.6,21.6,2023-07-07
+Warsaw,Poland,July      2023,29.0,14.6,22.3,2023-07-08
+Warsaw,Poland,July      2023,28.1,15.1,21.9,2023-07-09
+Warsaw,Poland,July      2023,29.8,16.2,22.8,2023-07-10
+Warsaw,Poland,July      2023,26.4,17.6,21.7,2023-07-11
+Warsaw,Poland,July      2023,31.3,15.8,22.8,2023-07-12
+Warsaw,Poland,July      2023,27.0,16.9,21.5,2023-07-13
+Warsaw,Poland,July      2023,26.4,15.8,21.6,2023-07-14
+Warsaw,Poland,July      2023,31.7,15.9,24.1,2023-07-15
+Warsaw,Poland,July      2023,34.3,20.3,27.1,2023-07-16
+Warsaw,Poland,July      2023,31.0,19.9,24.3,2023-07-17
+Warsaw,Poland,July      2023,26.3,17.4,22.1,2023-07-18
+Warsaw,Poland,July      2023,27.9,16.3,21.7,2023-07-19
+Warsaw,Poland,July      2023,22.7,14.7,18.5,2023-07-20
+Warsaw,Poland,July      2023,25.6,14.5,20.3,2023-07-21
+Warsaw,Poland,July      2023,23.9,14.8,19.1,2023-07-22
+Warsaw,Poland,July      2023,26.6,12.6,20.3,2023-07-23
+Warsaw,Poland,July      2023,30.1,19.1,23.6,2023-07-24
+Warsaw,Poland,July      2023,27.3,18.6,22.6,2023-07-25
+Warsaw,Poland,July      2023,22.7,15.4,18.3,2023-07-26
+Warsaw,Poland,July      2023,21.9,13.0,17.3,2023-07-27
+Warsaw,Poland,July      2023,21.1,14.1,16.9,2023-07-28
+Warsaw,Poland,July      2023,25.6,14.4,20.2,2023-07-29
+Warsaw,Poland,July      2023,26.7,17.0,21.4,2023-07-30
+Warsaw,Poland,July      2023,25.0,16.3,20.3,2023-07-31
+Warsaw,Poland,August    2023,21.5,17.8,19.6,2023-08-01
+Warsaw,Poland,August    2023,25.4,15.4,20.0,2023-08-02
+Warsaw,Poland,August    2023,24.0,17.9,21.1,2023-08-03
+Warsaw,Poland,August    2023,27.3,15.7,21.7,2023-08-04
+Warsaw,Poland,August    2023,20.7,17.0,18.7,2023-08-05
+Warsaw,Poland,August    2023,23.7,16.2,20.0,2023-08-06
+Warsaw,Poland,August    2023,18.4,13.7,16.0,2023-08-07
+Warsaw,Poland,August    2023,19.7,12.9,15.9,2023-08-08
+Warsaw,Poland,August    2023,20.9,14.0,16.3,2023-08-09
+Warsaw,Poland,August    2023,22.1,11.2,16.7,2023-08-10
+Warsaw,Poland,August    2023,22.8,13.5,18.2,2023-08-11
+Warsaw,Poland,August    2023,26.5,13.5,20.3,2023-08-12
+Warsaw,Poland,August    2023,28.8,16.7,22.6,2023-08-13
+Warsaw,Poland,August    2023,31.1,19.2,24.8,2023-08-14
+Warsaw,Poland,August    2023,34.5,21.4,27.3,2023-08-15
+Warsaw,Poland,August    2023,34.3,21.1,27.4,2023-08-16
+Warsaw,Poland,August    2023,32.2,22.7,26.9,2023-08-17
+Warsaw,Poland,August    2023,31.9,21.3,26.1,2023-08-18
+Warsaw,Poland,August    2023,31.7,21.2,26.1,2023-08-19
+Warsaw,Poland,August    2023,31.7,21.9,26.7,2023-08-20
+Warsaw,Poland,August    2023,29.6,20.2,24.4,2023-08-21
+Warsaw,Poland,August    2023,27.6,16.6,22.2,2023-08-22
+Warsaw,Poland,August    2023,27.6,16.3,22.2,2023-08-23
+Warsaw,Poland,August    2023,27.7,17.6,22.4,2023-08-24
+Warsaw,Poland,August    2023,32.3,18.0,24.5,2023-08-25
+Warsaw,Poland,August    2023,28.4,19.8,22.4,2023-08-26
+Warsaw,Poland,August    2023,24.9,17.9,20.9,2023-08-27
+Warsaw,Poland,August    2023,26.7,17.5,21.8,2023-08-28
+Warsaw,Poland,August    2023,32.1,16.6,23.8,2023-08-29
+Warsaw,Poland,August    2023,19.5,14.8,17.7,2023-08-30
+Warsaw,Poland,August    2023,20.1,13.6,16.6,2023-08-31
+Warsaw,Poland,September 2023,23.1,13.6,18.4,2023-09-01
+Warsaw,Poland,September 2023,23.7,14.8,19.2,2023-09-02
+Warsaw,Poland,September 2023,23.2,14.6,19.0,2023-09-03
+Warsaw,Poland,September 2023,23.1,13.2,18.2,2023-09-04
+Warsaw,Poland,September 2023,26.0,14.5,20.4,2023-09-05
+Warsaw,Poland,September 2023,27.2,15.1,21.2,2023-09-06
+Warsaw,Poland,September 2023,27.1,16.2,21.3,2023-09-07
+Warsaw,Poland,September 2023,28.4,16.1,22.0,2023-09-08
+Warsaw,Poland,September 2023,28.9,17.6,22.9,2023-09-09
+Warsaw,Poland,September 2023,30.1,17.7,23.5,2023-09-10
+Warsaw,Poland,September 2023,29.8,17.5,23.4,2023-09-11
+Warsaw,Poland,September 2023,29.9,18.6,24.2,2023-09-12
+Warsaw,Poland,September 2023,31.5,18.4,24.1,2023-09-13
+Warsaw,Poland,September 2023,21.3,12.4,17.3,2023-09-14
+Warsaw,Poland,September 2023,21.6,9.9,15.4,2023-09-15
+Warsaw,Poland,September 2023,25.3,11.5,18.2,2023-09-16
+Warsaw,Poland,September 2023,27.4,14.7,21.0,2023-09-17
+Warsaw,Poland,September 2023,29.2,19.2,23.4,2023-09-18
+Warsaw,Poland,September 2023,23.0,16.5,19.4,2023-09-19
+Warsaw,Poland,September 2023,24.5,14.3,19.2,2023-09-20
+Warsaw,Poland,September 2023,27.7,15.7,21.6,2023-09-21
+Warsaw,Poland,September 2023,28.3,18.3,22.0,2023-09-22
+Warsaw,Poland,September 2023,21.7,15.8,18.6,2023-09-23
+Warsaw,Poland,September 2023,21.2,13.5,16.7,2023-09-24
+Warsaw,Poland,September 2023,24.0,13.0,18.4,2023-09-25
+Warsaw,Poland,September 2023,28.1,15.6,21.1,2023-09-26
+Warsaw,Poland,September 2023,27.7,15.9,21.1,2023-09-27
+Warsaw,Poland,September 2023,27.4,15.1,20.5,2023-09-28
+Warsaw,Poland,September 2023,27.3,15.6,20.8,2023-09-29
+Warsaw,Poland,September 2023,21.1,14.1,18.3,2023-09-30
+Warsaw,Poland,October   2023,18.9,12.3,15.5,2023-10-01
+Warsaw,Poland,October   2023,19.7,13.1,16.7,2023-10-02
+Warsaw,Poland,October   2023,27.4,16.0,21.3,2023-10-03
+Warsaw,Poland,October   2023,18.6,12.6,15.1,2023-10-04
+Warsaw,Poland,October   2023,18.7,11.7,14.2,2023-10-05
+Warsaw,Poland,October   2023,17.5,8.9,13.5,2023-10-06
+Warsaw,Poland,October   2023,17.1,11.2,14.8,2023-10-07
+Warsaw,Poland,October   2023,12.8,7.0,9.7,2023-10-08
+Warsaw,Poland,October   2023,12.2,6.1,8.8,2023-10-09
+Warsaw,Poland,October   2023,12.3,7.5,9.7,2023-10-10
+Warsaw,Poland,October   2023,21.8,9.6,16.4,2023-10-11
+Warsaw,Poland,October   2023,19.2,10.5,15.8,2023-10-12
+Warsaw,Poland,October   2023,18.6,9.4,14.4,2023-10-13
+Warsaw,Poland,October   2023,24.5,12.5,17.9,2023-10-14
+Warsaw,Poland,October   2023,12.0,7.7,9.9,2023-10-15
+Warsaw,Poland,October   2023,9.7,5.8,7.6,2023-10-16
+Warsaw,Poland,October   2023,11.9,4.3,7.8,2023-10-17
+Warsaw,Poland,October   2023,13.1,4.8,8.7,2023-10-18
+Warsaw,Poland,October   2023,11.9,5.9,8.7,2023-10-19
+Warsaw,Poland,October   2023,9.5,7.0,7.7,2023-10-20
+Warsaw,Poland,October   2023,18.6,7.8,12.5,2023-10-21
+Warsaw,Poland,October   2023,13.5,11.8,13.0,2023-10-22
+Warsaw,Poland,October   2023,15.0,9.1,11.6,2023-10-23
+Warsaw,Poland,October   2023,15.1,8.8,11.6,2023-10-24
+Warsaw,Poland,October   2023,11.9,8.7,10.7,2023-10-25
+Warsaw,Poland,October   2023,11.1,9.5,10.4,2023-10-26
+Warsaw,Poland,October   2023,11.5,8.3,9.8,2023-10-27
+Warsaw,Poland,October   2023,9.5,7.6,8.3,2023-10-28
+Warsaw,Poland,October   2023,15.0,8.9,11.6,2023-10-29
+Warsaw,Poland,October   2023,16.2,10.2,12.6,2023-10-30
+Warsaw,Poland,October   2023,17.5,11.3,13.7,2023-10-31
+Warsaw,Poland,November  2023,11.8,9.3,10.6,2023-11-01
+Warsaw,Poland,November  2023,13.2,8.0,10.5,2023-11-02
+Warsaw,Poland,November  2023,15.0,11.2,12.7,2023-11-03
+Warsaw,Poland,November  2023,12.2,7.2,9.6,2023-11-04
+Warsaw,Poland,November  2023,10.7,6.6,8.7,2023-11-05
+Warsaw,Poland,November  2023,12.2,9.6,10.6,2023-11-06
+Warsaw,Poland,November  2023,12.2,7.8,9.8,2023-11-07
+Warsaw,Poland,November  2023,10.2,7.4,8.6,2023-11-08
+Warsaw,Poland,November  2023,11.2,5.8,8.4,2023-11-09
+Warsaw,Poland,November  2023,10.4,7.2,8.5,2023-11-10
+Warsaw,Poland,November  2023,8.5,5.3,7.1,2023-11-11
+Warsaw,Poland,November  2023,8.2,4.6,6.8,2023-11-12
+Warsaw,Poland,November  2023,8.6,5.2,6.4,2023-11-13
+Warsaw,Poland,November  2023,10.6,5.5,8.6,2023-11-14
+Warsaw,Poland,November  2023,9.5,6.1,8.1,2023-11-15
+Warsaw,Poland,November  2023,6.6,3.1,5.3,2023-11-16
+Warsaw,Poland,November  2023,5.9,3.0,4.8,2023-11-17
+Warsaw,Poland,November  2023,2.1,1.4,1.8,2023-11-18
+Warsaw,Poland,November  2023,3.2,1.4,2.0,2023-11-19
+Warsaw,Poland,November  2023,6.9,2.3,5.7,2023-11-20
+Warsaw,Poland,November  2023,5.0,-1.4,2.1,2023-11-21
+Warsaw,Poland,November  2023,-1.4,-4.2,-2.9,2023-11-22
+Warsaw,Poland,November  2023,6.6,-2.5,2.6,2023-11-23
+Warsaw,Poland,November  2023,4.9,1.1,2.9,2023-11-24
+Warsaw,Poland,November  2023,1.5,-0.4,0.7,2023-11-25
+Warsaw,Poland,November  2023,1.2,-1.6,-0.6,2023-11-26
+Warsaw,Poland,November  2023,0.1,-2.2,-1.3,2023-11-27
+Warsaw,Poland,November  2023,-0.6,-2.9,-2.2,2023-11-28
+Warsaw,Poland,November  2023,-1.8,-3.6,-2.8,2023-11-29
+Warsaw,Poland,November  2023,-1.0,-4.0,-2.3,2023-11-30
+Warsaw,Poland,December  2023,-0.7,-3.5,-2.2,2023-12-01
+Warsaw,Poland,December  2023,-0.4,-2.7,-1.4,2023-12-02
+Warsaw,Poland,December  2023,-0.1,-2.4,-1.5,2023-12-03
+Warsaw,Poland,December  2023,-1.5,-4.6,-2.9,2023-12-04
+Warsaw,Poland,December  2023,-1.3,-4.8,-3.3,2023-12-05
+Warsaw,Poland,December  2023,-0.8,-5.2,-3.1,2023-12-06
+Warsaw,Poland,December  2023,0.3,-2.7,-0.8,2023-12-07
+Warsaw,Poland,December  2023,-1.9,-4.7,-3.4,2023-12-08
+Warsaw,Poland,December  2023,-0.3,-3.9,-1.9,2023-12-09
+Warsaw,Poland,December  2023,1.7,-1.2,-0.4,2023-12-10
+Warsaw,Poland,December  2023,2.3,1.6,1.9,2023-12-11
+Warsaw,Poland,December  2023,4.0,1.9,3.0,2023-12-12
+Warsaw,Poland,December  2023,2.6,0.8,1.7,2023-12-13
+Warsaw,Poland,December  2023,1.2,-1.9,0.4,2023-12-14
+Warsaw,Poland,December  2023,1.6,-0.9,0.5,2023-12-15
+Warsaw,Poland,December  2023,5.1,1.8,3.5,2023-12-16
+Warsaw,Poland,December  2023,8.0,5.2,6.8,2023-12-17
+Warsaw,Poland,December  2023,6.9,5.9,6.5,2023-12-18
+Warsaw,Poland,December  2023,7.5,5.8,6.6,2023-12-19
+Warsaw,Poland,December  2023,5.5,4.0,4.9,2023-12-20
+Warsaw,Poland,December  2023,6.7,2.3,3.8,2023-12-21
+Warsaw,Poland,December  2023,5.1,0.7,1.8,2023-12-22
+Warsaw,Poland,December  2023,0.9,-0.3,0.4,2023-12-23
+Warsaw,Poland,December  2023,6.2,0.0,1.8,2023-12-24
+Warsaw,Poland,December  2023,9.7,6.4,8.2,2023-12-25
+Warsaw,Poland,December  2023,10.2,4.8,7.5,2023-12-26
+Warsaw,Poland,December  2023,6.1,0.9,3.9,2023-12-27
+Warsaw,Poland,December  2023,6.8,1.2,4.0,2023-12-28
+Warsaw,Poland,December  2023,8.0,4.0,6.0,2023-12-29
+Warsaw,Poland,December  2023,8.9,4.7,6.8,2023-12-30
+Warsaw,Poland,December  2023,4.6,1.4,3.3,2023-12-31
+Warsaw,Poland,January   2024,4.1,1.6,3.1,2024-01-01
+Warsaw,Poland,January   2024,4.3,2.8,3.7,2024-01-02
+Warsaw,Poland,January   2024,3.8,1.1,2.4,2024-01-03
+Warsaw,Poland,January   2024,7.4,1.4,6.1,2024-01-04
+Warsaw,Poland,January   2024,2.4,-2.0,-0.9,2024-01-05
+Warsaw,Poland,January   2024,-0.3,-3.4,-1.9,2024-01-06
+Warsaw,Poland,January   2024,-5.2,-8.8,-7.2,2024-01-07
+Warsaw,Poland,January   2024,-6.3,-8.9,-7.9,2024-01-08
+Warsaw,Poland,January   2024,-4.1,-8.4,-6.6,2024-01-09
+Warsaw,Poland,January   2024,-1.3,-6.7,-4.1,2024-01-10
+Warsaw,Poland,January   2024,0.9,-3.6,-1.1,2024-01-11
+Warsaw,Poland,January   2024,-0.5,-4.5,-2.2,2024-01-12
+Warsaw,Poland,January   2024,0.2,-0.9,-0.5,2024-01-13
+Warsaw,Poland,January   2024,0.8,0.0,0.4,2024-01-14
+Warsaw,Poland,January   2024,0.6,-2.2,-0.4,2024-01-15
+Warsaw,Poland,January   2024,-3.0,-6.8,-4.6,2024-01-16
+Warsaw,Poland,January   2024,0.0,-7.1,-2.9,2024-01-17
+Warsaw,Poland,January   2024,1.3,-2.5,-0.3,2024-01-18
+Warsaw,Poland,January   2024,-1.1,-5.6,-3.1,2024-01-19
+Warsaw,Poland,January   2024,0.2,-4.3,-1.7,2024-01-20
+Warsaw,Poland,January   2024,0.6,-1.2,-0.3,2024-01-21
+Warsaw,Poland,January   2024,2.8,-1.6,0.9,2024-01-22
+Warsaw,Poland,January   2024,3.9,2.0,2.8,2024-01-23
+Warsaw,Poland,January   2024,6.9,0.4,3.4,2024-01-24
+Warsaw,Poland,January   2024,5.9,1.3,3.5,2024-01-25
+Warsaw,Poland,January   2024,2.5,-0.1,1.1,2024-01-26
+Warsaw,Poland,January   2024,3.8,1.3,2.0,2024-01-27
+Warsaw,Poland,January   2024,3.4,0.0,1.8,2024-01-28
+Warsaw,Poland,January   2024,4.3,0.2,1.5,2024-01-29
+Warsaw,Poland,January   2024,6.4,0.5,2.6,2024-01-30
+Warsaw,Poland,January   2024,6.4,1.7,3.6,2024-01-31
+Warsaw,Poland,February  2024,5.5,2.2,3.4,2024-02-01
+Warsaw,Poland,February  2024,4.7,0.2,2.0,2024-02-02
+Warsaw,Poland,February  2024,9.4,5.0,8.0,2024-02-03
+Warsaw,Poland,February  2024,7.1,4.5,5.9,2024-02-04
+Warsaw,Poland,February  2024,6.4,3.1,5.1,2024-02-05
+Warsaw,Poland,February  2024,9.2,2.7,7.7,2024-02-06
+Warsaw,Poland,February  2024,9.3,1.8,5.3,2024-02-07
+Warsaw,Poland,February  2024,2.2,0.0,0.8,2024-02-08
+Warsaw,Poland,February  2024,2.0,0.1,0.9,2024-02-09
+Warsaw,Poland,February  2024,5.3,2.0,4.1,2024-02-10
+Warsaw,Poland,February  2024,9.9,5.1,7.5,2024-02-11
+Warsaw,Poland,February  2024,8.6,6.1,7.1,2024-02-12
+Warsaw,Poland,February  2024,8.1,3.1,6.0,2024-02-13
+Warsaw,Poland,February  2024,7.5,2.4,4.6,2024-02-14
+Warsaw,Poland,February  2024,6.9,4.7,5.7,2024-02-15
+Warsaw,Poland,February  2024,12.5,6.1,8.3,2024-02-16
+Warsaw,Poland,February  2024,11.5,5.6,7.8,2024-02-17
+Warsaw,Poland,February  2024,5.3,2.3,3.6,2024-02-18
+Warsaw,Poland,February  2024,5.8,2.0,3.5,2024-02-19
+Warsaw,Poland,February  2024,7.5,5.2,6.3,2024-02-20
+Warsaw,Poland,February  2024,6.7,4.9,5.5,2024-02-21
+Warsaw,Poland,February  2024,8.4,4.5,6.9,2024-02-22
+Warsaw,Poland,February  2024,8.0,5.7,7.2,2024-02-23
+Warsaw,Poland,February  2024,9.7,5.1,6.8,2024-02-24
+Warsaw,Poland,February  2024,12.3,4.2,7.9,2024-02-25
+Warsaw,Poland,February  2024,13.4,5.4,9.3,2024-02-26
+Warsaw,Poland,February  2024,15.5,7.6,10.9,2024-02-27
+Warsaw,Poland,February  2024,10.9,5.6,8.6,2024-02-28
+Warsaw,Poland,February  2024,10.6,6.3,8.3,2024-02-29
+Warsaw,Poland,March     2024,15.3,7.1,10.7,2024-03-01
+Warsaw,Poland,March     2024,16.1,8.5,11.6,2024-03-02
+Warsaw,Poland,March     2024,12.1,6.0,8.6,2024-03-03
+Warsaw,Poland,March     2024,6.7,4.0,5.4,2024-03-04
+Warsaw,Poland,March     2024,7.1,3.5,5.1,2024-03-05
+Warsaw,Poland,March     2024,6.4,1.5,4.7,2024-03-06
+Warsaw,Poland,March     2024,6.8,0.1,3.2,2024-03-07
+Warsaw,Poland,March     2024,7.9,0.4,3.9,2024-03-08
+Warsaw,Poland,March     2024,9.9,1.0,5.2,2024-03-09
+Warsaw,Poland,March     2024,12.0,2.6,7.1,2024-03-10
+Warsaw,Poland,March     2024,7.2,4.9,5.9,2024-03-11
+Warsaw,Poland,March     2024,7.7,6.0,6.6,2024-03-12
+Warsaw,Poland,March     2024,5.7,4.7,5.1,2024-03-13
+Warsaw,Poland,March     2024,9.7,4.5,6.3,2024-03-14
+Warsaw,Poland,March     2024,11.3,3.2,7.3,2024-03-15
+Warsaw,Poland,March     2024,15.5,7.5,11.1,2024-03-16
+Warsaw,Poland,March     2024,7.2,0.3,4.4,2024-03-17
+Warsaw,Poland,March     2024,4.3,-0.7,1.5,2024-03-18
+Warsaw,Poland,March     2024,8.2,-0.3,4.1,2024-03-19
+Warsaw,Poland,March     2024,9.9,2.8,6.5,2024-03-20
+Warsaw,Poland,March     2024,11.5,2.8,7.4,2024-03-21
+Warsaw,Poland,March     2024,9.3,5.5,7.8,2024-03-22
+Warsaw,Poland,March     2024,12.2,3.8,8.4,2024-03-23
+Warsaw,Poland,March     2024,9.0,4.2,6.0,2024-03-24
+Warsaw,Poland,March     2024,7.8,3.7,5.8,2024-03-25
+Warsaw,Poland,March     2024,12.3,3.9,7.9,2024-03-26
+Warsaw,Poland,March     2024,17.0,6.2,11.2,2024-03-27
+Warsaw,Poland,March     2024,18.6,7.6,12.0,2024-03-28
+Warsaw,Poland,March     2024,16.1,7.9,11.4,2024-03-29
+Warsaw,Poland,March     2024,21.2,10.0,15.3,2024-03-30
+Warsaw,Poland,March     2024,23.4,12.6,17.5,2024-03-31
+Warsaw,Poland,April     2024,22.9,12.7,17.8,2024-04-01
+Warsaw,Poland,April     2024,15.3,8.9,10.8,2024-04-02
+Warsaw,Poland,April     2024,9.9,1.8,6.9,2024-04-03
+Warsaw,Poland,April     2024,13.6,2.6,7.5,2024-04-04
+Warsaw,Poland,April     2024,13.9,9.8,11.5,2024-04-05
+Warsaw,Poland,April     2024,17.2,10.9,13.9,2024-04-06
+Warsaw,Poland,April     2024,21.3,9.2,15.3,2024-04-07
+Warsaw,Poland,April     2024,26.3,14.2,19.9,2024-04-08
+Warsaw,Poland,April     2024,26.1,15.0,20.1,2024-04-09
+Warsaw,Poland,April     2024,17.3,11.0,14.5,2024-04-10
+Warsaw,Poland,April     2024,16.9,7.8,12.5,2024-04-11
+Warsaw,Poland,April     2024,15.6,11.9,14.0,2024-04-12
+Warsaw,Poland,April     2024,19.3,13.3,15.7,2024-04-13
+Warsaw,Poland,April     2024,19.5,10.0,14.7,2024-04-14
+Warsaw,Poland,April     2024,11.3,7.8,8.8,2024-04-15
+Warsaw,Poland,April     2024,11.4,5.7,8.0,2024-04-16
