@@ -92,6 +92,8 @@ app =dash.Dash(external_stylesheets=[dbc.themes.DARKLY])
 # Do not forget to add server=app.server!!!
 server = app.server
 
+graph = dcc.Graph()
+cities =df_cities['city'].unique().tolist() 
 dropdown = dcc.Dropdown(['Berlin', 'Paris', 'Prague'], value=['Berlin', 'Paris', 'Prague'], 
                         clearable=False, multi=True, style ={'paddingLeft': '30px', 
                                                              "backgroundColor": "#222222", "color": "#222222"})
@@ -111,27 +113,26 @@ app.layout = html.Div([
     ])
 ])
 
-@callback(
-    Output(graph_bppra, "figure"), 
-    Input(dropdown, "value"))
-
-
-
-def update_bar_chart(city): 
-    mask = df_cities["city"] == city # coming from the function parameter
-    fig =px.bar(df_cities[mask], 
-             x='month_year', 
-             y='avg_temp_c',  
-             color='city',
-             color_discrete_map = {'Berlin': '#7FD4C1', 'Paris': '#8690FF', 'Prague': '#F7C0BB'},
-             barmode='group',
-                #f"{country}'s Values"
-             height=300, title = f"{city}'s Values",)
+@app.callback(
+    Output('graph_bppra', "figure"), 
+    Input('city-dropdown', "value"))
+def update_bar_chart(selected_cities): 
+    mask = df_cities["city"].isin(selected_cities)
+    filtered_df = df_cities[mask]
+    fig = px.bar(filtered_df, 
+                 x='month_year', 
+                 y='avg_temp_c',  
+                 color='city',
+                 color_discrete_map={'Berlin': '#7FD4C1', 'Paris': '#8690FF', 'Prague': '#F7C0BB'},
+                 barmode='group',
+                 height=300, title="Cities' Values")
     fig = fig.update_layout(
         plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white"
     )
 
-    return fig_weather_bppra # whatever you are returning here is connected to the component property of
+    return fig
+
+# whatever you are returning here is connected to the component property of
                        #the output which is figure
 
 if __name__ == '__main__':
