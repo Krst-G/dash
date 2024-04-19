@@ -87,11 +87,11 @@ server = app.server
 
 
 app.layout = html.Div([
-    html.H1('Weather comparison of five cities', style={'textAlign': 'center', 'color': 'coral'}),
-    html.H2('Berlin - Paris - Prague - Rome - Warsaw', style={'paddingLeft': '30px'}),
+    html.H1('In need of a perfect weekend getaway?', style={'textAlign': 'center', 'color': 'coral'}),
+    html.H2('Let us check some  weather details for these five cities ', style={'paddingLeft': '30px'}),
     # html.H3('A map of the cities'),
     html.Div([
-        html.Div('Map Overview our five Cities of Interest',
+        html.Div('Berlin - Paris - Prague - Rome - Warsaw',
                  style={'backgroundColor': 'coral', 'color': 'black', 'width': "Germany"}),
         dcc.Graph(figure=fig_scatter),
         d_table,
