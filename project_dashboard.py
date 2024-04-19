@@ -12,6 +12,8 @@ df_2 = pd.read_csv('./data/df_5_daily.csv')
 weather_days = pd.read_csv('./data/weather_days.csv')
 ## Table weather days
 weather_table= pd.read_csv('./data/weather_table.csv')
+## Table weather monthly bppra
+weather_bppra= pd.read_csv('./data/df_bppra_monthly.csv')
 
 d_table = dash_table.DataTable(weather_table.to_dict('records'),
                                   [{"name": i, "id": i} for i in weather_table.columns],
@@ -65,6 +67,18 @@ fig_daily = fig_daily.update_layout(
         plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white")
 
 
+###### Berlin Paris Prage BARPLOTS
+fig_weather_bppra = px.bar(weather_bppra, 
+             x='month_year', 
+             y='avg_temp_c',  
+             color='city',
+             barmode='group',
+             height=400, title = "Distribution of avg Temperatures per Month")
+fig_weather_bppra = fig_weather_bppra.update_layout(
+        plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white"
+        )
+##################
+
 app =dash.Dash(external_stylesheets=[dbc.themes.DARKLY]) 
 
 # Do not forget to add server=app.server!!!
@@ -81,6 +95,7 @@ app.layout = html.Div([
         dcc.Graph(figure=fig_scatter),
         d_table,
         dcc.Graph(figure=fig_daily),
+        dcc.Graph(figure=fig_weather_bppra),
         dcc.Graph(figure=fig_weather)
     ])
 ])
