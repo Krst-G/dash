@@ -114,8 +114,8 @@ app.layout = html.Div([
 ])
 
 @app.callback(
-    Output('graph_bppra', "figure"), 
-    Input('dropdown', "value"))
+    Output(graph_bppra, "figure"), 
+    Input(dropdown, "value"))     ### check if error now gone bc no more ' '
 def update_bar_chart(selected_cities): 
     mask = df_cities["city"].isin(selected_cities)
     filtered_df = df_cities[mask]
