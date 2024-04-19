@@ -123,7 +123,7 @@ def update_bar_chart(selected_cities):
                  x='month_year', 
                  y='avg_temp_c',  
                  color='city',
-                 color_discrete_map={'Berlin': '#7FD4C1', 'Paris': '#8690FF', 'Prague': '#F7C0BB'},
+                 color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#f40b19', 'Prague': '#7FD497'},
                  barmode='group',
                  height=300, title="Cities' Values")
     fig = fig.update_layout(
