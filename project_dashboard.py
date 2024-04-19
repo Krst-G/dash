@@ -1,5 +1,6 @@
 import dash
-from dash import Dash, html, dcc
+from dash import Dash, html, dcc, callback
+from dash.dependencies import Input, Output, State
 import plotly.express as px
 import pandas as pd
 import dash_bootstrap_components as dbc
@@ -14,6 +15,11 @@ weather_days = pd.read_csv('./data/weather_days.csv')
 weather_table= pd.read_csv('./data/weather_table.csv')
 ## Table weather monthly bppra
 weather_bppra= pd.read_csv('./data/df_bppra_monthly.csv')
+
+
+### For Dropdown
+df_cities =weather_bppra[weather_bppra['city'].isin(['Berlin', 'Paris', 'Prague'])]
+
 
 d_table = dash_table.DataTable(weather_table.to_dict('records'),
                                   [{"name": i, "id": i} for i in weather_table.columns],
@@ -78,6 +84,7 @@ fig_weather_bppra = px.bar(weather_bppra,
 fig_weather_bppra = fig_weather_bppra.update_layout(
         plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white"
         )
+graph_bppra = dcc.Graph(figure=fig_weather_bppra)
 ##################
 
 app =dash.Dash(external_stylesheets=[dbc.themes.DARKLY]) 
@@ -85,6 +92,9 @@ app =dash.Dash(external_stylesheets=[dbc.themes.DARKLY])
 # Do not forget to add server=app.server!!!
 server = app.server
 
+dropdown = dcc.Dropdown(['Berlin', 'Paris', 'Prague'], value=['Berlin', 'Paris', 'Prague'], 
+                        clearable=False, multi=True, style ={'paddingLeft': '30px', 
+                                                             "backgroundColor": "#222222", "color": "#222222"})
 
 app.layout = html.Div([
     html.H1('In need of a perfect weekend getaway?', style={'textAlign': 'center', 'color': 'coral'}),
@@ -95,11 +105,34 @@ app.layout = html.Div([
                  style={'backgroundColor': 'coral', 'color': 'black', 'width': "Germany"}),
         dcc.Graph(figure=fig_scatter),
         d_table,
-        dcc.Graph(figure=fig_daily),
-        dcc.Graph(figure=fig_weather_bppra),
+        dcc.Graph(figure=fig_daily),dropdown,
+        graph_bppra,
         dcc.Graph(figure=fig_weather)
     ])
 ])
+
+@callback(
+    Output(graph_bppra, "figure"), 
+    Input(dropdown, "value"))
+
+
+
+def update_bar_chart(city): 
+    mask = df_cities["city"] == city # coming from the function parameter
+    fig =px.bar(df_cities[mask], 
+             x='month_year', 
+             y='avg_temp_c',  
+             color='city',
+             color_discrete_map = {'Berlin': '#7FD4C1', 'Paris': '#8690FF', 'Prague': '#F7C0BB'},
+             barmode='group',
+                #f"{country}'s Values"
+             height=300, title = f"{city}'s Values",)
+    fig = fig.update_layout(
+        plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white"
+    )
+
+    return fig_weather_bppra # whatever you are returning here is connected to the component property of
+                       #the output which is figure
 
 if __name__ == '__main__':
      app.run_server() 
