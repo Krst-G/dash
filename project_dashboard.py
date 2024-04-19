@@ -47,6 +47,7 @@ fig_scatter = fig_scatter.update_layout(
 fig_weather = px.bar(weather_days, 
              x='month_year', 
              y='sunny_days',  
+             #color=
              color='city',
              barmode='group',
              height=400, title = "Distribution of Sunny Days")
@@ -90,7 +91,7 @@ app.layout = html.Div([
     html.H2('Berlin - Paris - Prague - Rome - Warsaw', style={'paddingLeft': '30px'}),
     # html.H3('A map of the cities'),
     html.Div([
-        html.Div('Map',
+        html.Div('Map Overview our five Cities of Interest',
                  style={'backgroundColor': 'coral', 'color': 'black', 'width': "Germany"}),
         dcc.Graph(figure=fig_scatter),
         d_table,
