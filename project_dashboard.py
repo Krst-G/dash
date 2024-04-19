@@ -20,7 +20,7 @@ d_table = dash_table.DataTable(weather_table.to_dict('records'),
                                   'backgroundColor': 'rgb(210, 210, 210)',
                                   'color': 'black','fontWeight': 'bold'},
                               style_table={
-                                         'minHeight': '400px', 'height': '300px', 'maxHeight': '600px',
+                                         'minHeight': '100px', 'height': '200px', 'maxHeight': '200px',
                                          'minWidth': '1200px', 'width': '1200px', 'maxWidth': '1400px', 
                                          'marginLeft': 'auto', 'marginRight': 'auto',
                                      'marginTop': 0, 'marginBottom': 0} 
