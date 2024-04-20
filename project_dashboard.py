@@ -18,7 +18,7 @@ weather_bppra= pd.read_csv('./data/df_bppra_monthly.csv')
 
 
 ### For Dropdown
-df_cities =weather_bppra[weather_bppra['city'].isin(['Berlin', 'Paris', 'Prague'])]
+df_cities =weather_bppra[weather_bppra['city'].isin(['Berlin', 'Paris', 'Prague','Rome', 'Warsaw'])]
 
 
 d_table = dash_table.DataTable(weather_table.to_dict('records'),
@@ -74,7 +74,7 @@ fig_daily = fig_daily.update_layout(
         plot_bgcolor="#222222", paper_bgcolor="#222222", font_color="white")
 
 
-###### Berlin Paris Prage BARPLOTS
+###### Berlin Paris Prague BARPLOTS
 fig_weather_bppra = px.bar(weather_bppra, 
              x='month_year', 
              y='avg_temp_c',  
@@ -94,7 +94,7 @@ server = app.server
 
 graph = dcc.Graph()
 cities =df_cities['city'].unique().tolist() 
-dropdown = dcc.Dropdown(['Berlin', 'Paris', 'Prague'], value=['Berlin', 'Paris', 'Prague'], 
+dropdown = dcc.Dropdown(['Berlin', 'Paris', 'Prague', 'Rome', 'Warsaw'], value=['Berlin', 'Paris', 'Prague','Rome', 'Warsaw'], 
                         clearable=False, multi=True, style ={'paddingLeft': '30px', 
                                                              "backgroundColor": "#222222", "color": "#222222"})
 
@@ -123,7 +123,8 @@ def update_bar_chart(selected_cities):
                  x='month_year', 
                  y='avg_temp_c',  
                  color='city',
-                 color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#f40b19', 'Prague': '#7FD497'},
+                 color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#f40b19', 'Prague': '#7FD497'
+                                     , 'Rome':'#AF76F8', 'Warsaw':'#F79C54'},
                  barmode='group',
                  height=300, title="Avg Temperature Values")
     fig = fig.update_layout(
