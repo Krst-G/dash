@@ -123,7 +123,7 @@ def update_bar_chart(selected_cities):
                  x='month_year', 
                  y='avg_temp_c',  
                  color='city',
-                 color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#f40b19', 'Prague': '#7FD497'
+                 color_discrete_map={'Berlin': '#0b2df4', 'Paris': '#F7545D', 'Prague': '#7FD497'
                                      , 'Rome':'#AF76F8', 'Warsaw':'#F79C54'},
                  barmode='group',
                  height=300, title="Avg Temperature Values")
